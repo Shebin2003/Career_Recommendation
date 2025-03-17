@@ -1,0 +1,364 @@
+{
+    "questions": [
+      {
+        "index": 1,
+        "question": "What is technical communication?",
+        "options": {
+          "a": "Communicating information using technical jargon only",
+          "b": "Communicating complex ideas clearly and concisely using written, spoken, or visual media",
+          "c": "Communicating only through technical diagrams",
+          "d": "Communicating information within technical teams"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 2,
+        "question": "What are the key components of technical writing?",
+        "options": {
+          "a": "Clarity, conciseness, and correctness",
+          "b": "Complex vocabulary and long sentences",
+          "c": "Using only visual aids",
+          "d": "Personal opinions and experiences"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 3,
+        "question": "What is the purpose of technical documentation?",
+        "options": {
+          "a": "To provide a detailed technical report for engineers only",
+          "b": "To explain complex technical concepts in a clear and accessible way for users and stakeholders",
+          "c": "To entertain the audience with technical jargon",
+          "d": "To provide detailed research findings"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 4,
+        "question": "What is a user manual?",
+        "options": {
+          "a": "A document used for troubleshooting only",
+          "b": "A guide written for non-technical users to help them use a product or system",
+          "c": "A technical document for developers",
+          "d": "A sales pitch for a product"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 5,
+        "question": "What is the difference between technical communication and general communication?",
+        "options": {
+          "a": "Technical communication focuses on complex topics, while general communication is for everyday conversation",
+          "b": "Technical communication is formal, while general communication is informal",
+          "c": "Technical communication focuses on marketing content, while general communication focuses on technical details",
+          "d": "Technical communication is used only in IT sectors, while general communication is used in all fields"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 6,
+        "question": "What is the role of a technical communicator?",
+        "options": {
+          "a": "To translate technical information into a language that non-technical audiences can understand",
+          "b": "To create technical jargon for developers",
+          "c": "To communicate technical information only to other engineers",
+          "d": "To maintain the company website"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 7,
+        "question": "What are the different types of technical documents?",
+        "options": {
+          "a": "User manuals, troubleshooting guides, reports, and documentation",
+          "b": "Research papers and novels",
+          "c": "Personal memos and advertisements",
+          "d": "Emails and letters"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 8,
+        "question": "What is an executive summary in technical writing?",
+        "options": {
+          "a": "A detailed breakdown of technical specifications",
+          "b": "A brief, high-level overview of the document's main points for executives and stakeholders",
+          "c": "A glossary of terms used in the document",
+          "d": "A list of references"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 9,
+        "question": "What is the importance of clarity in technical communication?",
+        "options": {
+          "a": "It ensures the audience understands the content without confusion",
+          "b": "It allows the writer to use technical jargon freely",
+          "c": "It makes the document longer and more detailed",
+          "d": "It adds complexity to the writing"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 10,
+        "question": "What is a glossary in a technical document?",
+        "options": {
+          "a": "A list of references used in the document",
+          "b": "A section that explains technical terms used in the document for clarity",
+          "c": "A diagram illustrating the content",
+          "d": "A summary of the document"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 11,
+        "question": "What is the purpose of a style guide in technical writing?",
+        "options": {
+          "a": "To set guidelines for formatting, tone, and consistency in technical documents",
+          "b": "To outline the technical concepts of the document",
+          "c": "To provide marketing content",
+          "d": "To create a list of technical terms"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 12,
+        "question": "What is the importance of audience analysis in technical communication?",
+        "options": {
+          "a": "To determine the appropriate language, tone, and level of detail for the document",
+          "b": "To decide how technical the content should be",
+          "c": "To focus on adding as much technical information as possible",
+          "d": "To create marketing content"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 13,
+        "question": "What is the difference between active and passive voice in technical writing?",
+        "options": {
+          "a": "Active voice emphasizes the subject performing the action, while passive voice emphasizes the action performed on the subject",
+          "b": "Active voice is used for reports, while passive voice is used for user manuals",
+          "c": "There is no significant difference between active and passive voice",
+          "d": "Active voice is used for technical documents, while passive voice is used for storytelling"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 14,
+        "question": "What is the role of visuals (charts, graphs, etc.) in technical documents?",
+        "options": {
+          "a": "To make the document look visually appealing and decorative",
+          "b": "To help clarify complex information and improve understanding",
+          "c": "To replace written explanations entirely",
+          "d": "To make the document shorter"
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 15,
+        "question": "What is a technical report, and how does it differ from a research paper?",
+        "options": {
+          "a": "A technical report focuses on providing detailed technical information and solutions to problems, while a research paper focuses on presenting research findings and theories",
+          "b": "A technical report is a summary of a research paper",
+          "c": "A technical report is used only by engineers, while a research paper is used by scientists",
+          "d": "A technical report is a marketing document"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 16,
+        "question": "What is the difference between a proposal and a report in technical writing?",
+        "options": {
+          "a": "A proposal suggests a course of action or solution, while a report documents results and findings",
+          "b": "A proposal is a type of report",
+          "c": "A report focuses on technical details, while a proposal is for marketing purposes",
+          "d": "A proposal is longer than a report"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 17,
+        "question": "What are the best practices for writing clear and concise instructions?",
+        "options": {
+          "a": "Use simple language, keep sentences short, and focus on step-by-step instructions",
+          "b": "Use complex vocabulary and long sentences to show expertise",
+          "c": "Write in a casual tone and avoid technical terms",
+          "d": "Include as much information as possible without structure"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 18,
+        "question": "What is document management in technical communication?",
+        "options": {
+          "a": "The process of organizing, storing, and maintaining technical documents efficiently",
+          "b": "The process of designing documents for print",
+          "c": "The creation of new content for documents",
+          "d": "The review of documents by technical experts"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 19,
+        "question": "What is the difference between 'how-to' documentation and 'troubleshooting' guides?",
+        "options": {
+          "a": "'How-to' documentation provides instructions for performing tasks, while troubleshooting guides help solve problems",
+          "b": "There is no difference between the two",
+          "c": "'How-to' documentation is for beginners, while troubleshooting guides are for experts",
+          "d": "'How-to' documentation focuses on complex problems, while troubleshooting guides focus on simple tasks"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 20,
+        "question": "What are the key elements of a user interface (UI) guide?",
+        "options": {
+          "a": "Design principles, interaction guidelines, and visual elements to create an effective user experience",
+          "b": "Detailed instructions for using a product",
+          "c": "Technical specifications of hardware components",
+          "d": "Marketing materials for the UI"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 21,
+        "question": "What is the role of XML and DITA in structured technical communication?",
+        "options": {
+          "a": "XML and DITA provide a framework for structuring content to make it reusable, maintainable, and adaptable",
+          "b": "XML and DITA are used for compressing large files",
+          "c": "XML and DITA are formats for visual elements only",
+          "d": "XML and DITA are only used in HTML documents"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 22,
+        "question": "What is the process of localization and internationalization in technical communication?",
+        "options": {
+          "a": "Localization adapts content for specific regions, while internationalization prepares content for global markets",
+          "b": "Localization is focused on translation, while internationalization is focused on marketing",
+          "c": "Localization is used for non-technical content, while internationalization is used for technical content",
+          "d": "Localization and internationalization are the same"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 23,
+        "question": "What are the ethical considerations in technical communication?",
+        "options": {
+          "a": "Ensuring accuracy, clarity, and confidentiality, and avoiding misleading or biased information",
+          "b": "Using complex language to sound authoritative",
+          "c": "Exaggerating technical details to impress the audience",
+          "d": "Writing content for marketing purposes only"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 24,
+        "question": "How do you handle conflicting information in technical documentation?",
+        "options": {
+          "a": "By carefully verifying facts, consulting subject matter experts, and presenting both sides when necessary",
+          "b": "By ignoring conflicting information and focusing on one perspective",
+          "c": "By leaving out all conflicting information",
+          "d": "By making a decision without consulting experts"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 25,
+        "question": "What is the role of documentation in Agile software development?",
+        "options": {
+          "a": "Documentation in Agile focuses on lightweight, flexible documents that support iterative development and collaboration",
+          "b": "Documentation is avoided in Agile to focus on development speed",
+          "c": "Documentation is only used after the software is completed",
+          "d": "Agile focuses only on user manuals, not on internal technical documents"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 26,
+        "question": "What is the difference between prescriptive and descriptive documentation?",
+        "options": {
+          "a": "Prescriptive documentation provides specific instructions, while descriptive documentation provides an explanation of concepts or systems",
+          "b": "Prescriptive documentation is used for user manuals, while descriptive documentation is for research papers",
+          "c": "Prescriptive documentation is used for technical specifications, while descriptive documentation is for marketing materials",
+          "d": "There is no difference between prescriptive and descriptive documentation"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 27,
+        "question": "What are the challenges in communicating technical content to non-technical audiences?",
+        "options": {
+          "a": "The challenge is simplifying complex concepts without losing essential details, avoiding jargon, and ensuring clarity",
+          "b": "The challenge is to provide as much technical detail as possible",
+          "c": "The challenge is to use only visual elements and no written content",
+          "d": "The challenge is to impress the audience with complex terms"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 28,
+        "question": "What is content management, and why is it important in technical communication?",
+        "options": {
+          "a": "Content management involves organizing and controlling content for easy access, updates, and consistency across platforms",
+          "b": "Content management involves designing content for marketing purposes only",
+          "c": "Content management involves writing content for research papers",
+          "d": "Content management is about creating content for blogs and social media"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 29,
+        "question": "What are the principles of usability testing in technical writing?",
+        "options": {
+          "a": "Usability testing involves evaluating how easily users can understand, navigate, and apply the instructions or interface",
+          "b": "Usability testing involves reviewing grammar and spelling in documents",
+          "c": "Usability testing is only focused on visual appeal",
+          "d": "Usability testing is not needed for technical documents"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+    },
+    {
+        "index": 30,
+        "question": "What is the importance of version control in technical documentation?",
+        "options": {
+          "a": "It allows real-time collaboration among team members",
+          "b": "It ensures that only the latest version of the documentation is accessible",
+          "c": "It tracks changes and allows reverting to previous versions if needed",
+          "d": "It reduces the size of the documentation file"
+        },
+        "answer": "c",
+        "difficulty_level": "hard"
+    }
+    ]
+}

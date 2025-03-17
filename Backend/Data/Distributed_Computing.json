@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "question": "What is a distributed system?",
+        "options": {
+          "a": "A system with centralized components",
+          "b": "A collection of independent computers that appear as a single system",
+          "c": "A system with shared memory",
+          "d": "A system with one mainframe"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 1
+      },
+      {
+        "question": "Which of the following is a key goal of distributed systems?",
+        "options": {
+          "a": "Transparency",
+          "b": "Centralization",
+          "c": "Data redundancy",
+          "d": "Slow response time"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index": 2
+      },
+      {
+        "question": "What is middleware in distributed systems?",
+        "options": {
+          "a": "A type of hardware",
+          "b": "Software that provides communication services",
+          "c": "An operating system",
+          "d": "A database"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 3
+      },
+      {
+        "question": "What does RPC stand for?",
+        "options": {
+          "a": "Remote Procedure Call",
+          "b": "Real-time Process Communication",
+          "c": "Rapid Protocol Communication",
+          "d": "Random Packet Call"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index": 4
+      },
+      {
+        "question": "Which of the following is not a characteristic of distributed systems?",
+        "options": {
+          "a": "Scalability",
+          "b": "Transparency",
+          "c": "Decentralization",
+          "d": "Low reliability"
+        },
+        "answer": "d",
+        "difficulty_level": "easy",
+        "index": 5
+      },
+      {
+        "question": "Which protocol is commonly used for communication in distributed systems?",
+        "options": {
+          "a": "HTTP",
+          "b": "TCP/IP",
+          "c": "SMTP",
+          "d": "FTP"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 6
+      },
+      {
+        "question": "What is a stub in RPC?",
+        "options": {
+          "a": "A placeholder for a server function",
+          "b": "An interface between client and server",
+          "c": "A method for process synchronization",
+          "d": "A database object"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 7
+      },
+      {
+        "question": "What is message passing in distributed systems?",
+        "options": {
+          "a": "Sending data between threads in the same process",
+          "b": "Sending messages between processes in a distributed environment",
+          "c": "Sending data between registers in a CPU",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 8
+      },
+      {
+        "question": "What is the role of a message queue?",
+        "options": {
+          "a": "To manage threads",
+          "b": "To store and forward messages",
+          "c": "To compile code",
+          "d": "To monitor CPU usage"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 9
+      },
+      {
+        "question": "Which of the following is an example of synchronous communication?",
+        "options": {
+          "a": "Email",
+          "b": "Telephone call",
+          "c": "File transfer",
+          "d": "Database backup"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 10
+      },
+      {
+        "question": "What is consistency in distributed systems?",
+        "options": {
+          "a": "Uniform response time",
+          "b": "All nodes have the same data view",
+          "c": "Uniform memory allocation",
+          "d": "Fixed number of servers"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 11
+      },
+      {
+        "question": "Which protocol ensures consistency in distributed databases?",
+        "options": {
+          "a": "Two-phase commit",
+          "b": "HTTP",
+          "c": "UDP",
+          "d": "ARP"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 12
+      },
+      {
+        "question": "What is a clock synchronization problem?",
+        "options": {
+          "a": "Ensuring processes have the same priority",
+          "b": "Ensuring all nodes have a consistent notion of time",
+          "c": "Synchronizing CPUs in a cluster",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 13
+      },
+      {
+        "question": "What is a Lamport timestamp?",
+        "options": {
+          "a": "A way to record physical time",
+          "b": "A logical time for event ordering",
+          "c": "A system uptime tracker",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 14
+      },
+      {
+        "question": "What is a vector clock?",
+        "options": {
+          "a": "A physical clock for process management",
+          "b": "A data structure for tracking event causality",
+          "c": "A synchronization tool for distributed databases",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 15
+      },
+      {
+        "question": "What is fault tolerance?",
+        "options": {
+          "a": "Ability to avoid faults entirely",
+          "b": "Ability to recover gracefully from faults",
+          "c": "A backup mechanism for data",
+          "d": "Redundant communication protocols"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 16
+      },
+      {
+        "question": "Which technique is used for fault tolerance?",
+        "options": {
+          "a": "Replication",
+          "b": "Load balancing",
+          "c": "Data compression",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 17
+      },
+      {
+        "question": "What is failover in distributed systems?",
+        "options": {
+          "a": "Switching to a backup system when a failure occurs",
+          "b": "Terminating faulty processes",
+          "c": "Restarting the system after a fault",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 18
+      },
+      {
+        "question": "What does Byzantine failure refer to?",
+        "options": {
+          "a": "Partial system failure",
+          "b": "Arbitrary and malicious failures",
+          "c": "Crash of all nodes simultaneously",
+          "d": "Network packet loss"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 19
+      },
+      {
+        "question": "What is checkpointing in distributed systems?",
+        "options": {
+          "a": "Logging errors",
+          "b": "Periodically saving system state",
+          "c": "Synchronizing clocks",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 20
+      },
+      {
+        "question": "What is a distributed hash table (DHT)?",
+        "options": {
+          "a": "A database table used in clusters",
+          "b": "A hash table distributed across multiple nodes",
+          "c": "A table for tracking errors",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 21
+      },
+      {
+        "question": "What is CAP theorem?",
+        "options": {
+          "a": "Consistency, Availability, Partition tolerance",
+          "b": "Cache, Availability, Performance",
+          "c": "Consistency, Access, Partitioning",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 22
+      },
+      {
+        "question": "What is leader election in distributed systems?",
+        "options": {
+          "a": "Selecting a process to coordinate activities",
+          "b": "Choosing a node for backup storage",
+          "c": "Selecting nodes for replication",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 23
+      },
+      {
+        "question": "What is a quorum in distributed systems?",
+        "options": {
+          "a": "Minimum number of nodes required for operation",
+          "b": "All nodes in the network",
+          "c": "A voting system for consensus",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 24
+      },
+      {
+        "question": "Which of the following is an example of a distributed system?",
+        "options": {
+          "a": "Blockchain",
+          "b": "Standalone PC",
+          "c": "Mobile phone",
+          "d": "Printer"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 25
+      },
+      {
+        "question": "Which is a common security issue in distributed systems?",
+        "options": {
+          "a": "Deadlock",
+          "b": "Eavesdropping",
+          "c": "Clock drift",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index": 26
+      },
+      {
+        "question": "What is a man-in-the-middle attack?",
+        "options": {
+          "a": "Unauthorized interception and alteration of communication",
+          "b": "A type of hardware failure",
+          "c": "Data corruption during backup",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 27
+      },
+      {
+        "question": "What is encryption in distributed systems?",
+        "options": {
+          "a": "Encoding data to prevent unauthorized access",
+          "b": "Compressing data for transmission",
+          "c": "Replicating data across nodes",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 28
+      },
+      {
+        "question": "What is mutual authentication?",
+        "options": {
+          "a": "Both parties verifying each other's identity",
+          "b": "One-way authentication",
+          "c": "Sharing passwords between nodes",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 29
+      },
+      {
+        "question": "What is the purpose of a firewall in distributed systems?",
+        "options": {
+          "a": "Prevent unauthorized access",
+          "b": "Manage data replication",
+          "c": "Synchronize processes",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 30
+      }
+    ]
+  }
+  

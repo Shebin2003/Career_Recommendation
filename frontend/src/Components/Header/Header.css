@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #7d47ab; /* Purple background */
+  padding: 12px 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #ffeb3b; /* Yellow on hover */
+  cursor: pointer;
+}
+
+.register-btn {
+  font-weight: bold;
+}
+
+.account-dropdown{
+  background-color: #7d47ab; /* Purple background */
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.3s;
+  margin-top: 1px;
+  border: none;
+}

@@ -1,0 +1,73 @@
+.register-container {
+    background-color: #eeefef;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-image: url("../../Assets/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.register-inner-container {
+    width: 30%;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.register-heading {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.register-input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.register-input {
+    width: 90%;
+    padding: 12px;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s;
+    margin-left:10px;
+    height: 40px;
+}
+
+.register-input:focus {
+    border-color: #da2c32;
+    box-shadow: 0px 0px 5px rgba(218, 44, 50, 0.5);
+}
+
+.register-submit-button {
+    width: 90%;
+    padding: 12px;
+    background-color: #da2c32;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 5px;
+}
+
+.register-submit-button:hover {
+    background-color: black;
+    transform: scale(1.05);
+}

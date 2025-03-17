@@ -1,0 +1,363 @@
+{"questions":[
+  {
+    "index": 1,
+    "difficulty_level": "easy",
+    "question": "Which of the following is NOT a feature of Object-Oriented Programming (OOP)?",
+    "options": {
+      "a": "Abstraction",
+      "b": "Encapsulation",
+      "c": "Inheritance",
+      "d": "Compilation"
+    },
+    "answer": "d"
+  },
+  {
+    "index": 2,
+    "difficulty_level": "easy",
+    "question": "Which data structure uses a 'Last-In, First-Out' (LIFO) approach?",
+    "options": {
+      "a": "Stack",
+      "b": "Queue",
+      "c": "HashMap",
+      "d": "Linked List"
+    },
+    "answer": "a"
+  },
+  {
+    "index": 3,
+    "difficulty_level": "easy",
+    "question": "In Java, which keyword is used to inherit a class?",
+    "options": {
+      "a": "inherit",
+      "b": "implements",
+      "c": "extends",
+      "d": "override"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 4,
+    "difficulty_level": "easy",
+    "question": "What is the time complexity to access an element in an array by index?",
+    "options": {
+      "a": "O(n)",
+      "b": "O(log n)",
+      "c": "O(1)",
+      "d": "O(n^2)"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 5,
+    "difficulty_level": "easy",
+    "question": "Which pillar of OOP allows methods with the same name but different parameters?",
+    "options": {
+      "a": "Inheritance",
+      "b": "Polymorphism",
+      "c": "Abstraction",
+      "d": "Encapsulation"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 6,
+    "difficulty_level": "easy",
+    "question": "Which data structure uses nodes where each node points to the next one?",
+    "options": {
+      "a": "Stack",
+      "b": "Linked List",
+      "c": "Queue",
+      "d": "Heap"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 7,
+    "difficulty_level": "easy",
+    "question": "Which sorting algorithm has the best time complexity for already sorted arrays?",
+    "options": {
+      "a": "Bubble Sort",
+      "b": "Insertion Sort",
+      "c": "Selection Sort",
+      "d": "Merge Sort"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 8,
+    "difficulty_level": "easy",
+    "question": "Which keyword is used to declare a constant variable in Java?",
+    "options": {
+      "a": "static",
+      "b": "final",
+      "c": "const",
+      "d": "immutable"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 9,
+    "difficulty_level": "easy",
+    "question": "Which of the following is the default access modifier in Java?",
+    "options": {
+      "a": "public",
+      "b": "private",
+      "c": "protected",
+      "d": "package-private"
+    },
+    "answer": "d"
+  },
+  {
+    "index": 10,
+    "difficulty_level": "easy",
+    "question": "Which method is used to get the length of an array in Java?",
+    "options": {
+      "a": "size()",
+      "b": "length()",
+      "c": "length",
+      "d": "getSize()"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 11,
+    "difficulty_level": "medium",
+    "question": "Which of the following is true about a Binary Search Tree (BST)?",
+    "options": {
+      "a": "All nodes have exactly two children",
+      "b": "Left child contains keys greater than the parent node",
+      "c": "Right child contains keys greater than the parent node",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 12,
+    "difficulty_level": "medium",
+    "question": "Which OOP principle does method overriding represent in Java?",
+    "options": {
+      "a": "Abstraction",
+      "b": "Polymorphism",
+      "c": "Encapsulation",
+      "d": "Inheritance"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 13,
+    "difficulty_level": "medium",
+    "question": "What is the time complexity of inserting an element at the beginning of a singly linked list?",
+    "options": {
+      "a": "O(n)",
+      "b": "O(1)",
+      "c": "O(log n)",
+      "d": "O(n log n)"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 14,
+    "difficulty_level": "medium",
+    "question": "Which of the following is NOT an advantage of using a heap data structure?",
+    "options": {
+      "a": "Efficient access to the maximum or minimum element",
+      "b": "Efficient merging of two heaps",
+      "c": "Efficient sorting of data",
+      "d": "Dynamic memory allocation"
+    },
+    "answer": "d"
+  },
+  {
+    "index": 15,
+    "difficulty_level": "medium",
+    "question": "Which of the following best describes the 'protected' access modifier in Java?",
+    "options": {
+      "a": "Accessible only within the same package",
+      "b": "Accessible within the same package and subclasses",
+      "c": "Accessible only within the same class",
+      "d": "Accessible from anywhere"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 16,
+    "difficulty_level": "medium",
+    "question": "What is the primary purpose of the 'this' keyword in Java?",
+    "options": {
+      "a": "To call the superclass constructor",
+      "b": "To reference the current instance of the class",
+      "c": "To import classes from another package",
+      "d": "To declare static methods"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 17,
+    "difficulty_level": "medium",
+    "question": "Which data structure is most suitable for implementing a LRU (Least Recently Used) Cache?",
+    "options": {
+      "a": "Queue",
+      "b": "Stack",
+      "c": "HashMap with Doubly Linked List",
+      "d": "Heap"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 18,
+    "difficulty_level": "medium",
+    "question": "What will happen if a base class constructor does not have a no-argument constructor and a subclass constructor is called without explicitly invoking the base class constructor in Java?",
+    "options": {
+      "a": "Compilation error",
+      "b": "Runtime error",
+      "c": "Implicit call to a default constructor",
+      "d": "Code executes successfully"
+    },
+    "answer": "a"
+  },
+  {
+    "index": 19,
+    "difficulty_level": "medium",
+    "question": "Which of the following data structures is best suited for applications like a call center with multiple queues?",
+    "options": {
+      "a": "Stack",
+      "b": "Priority Queue",
+      "c": "Heap",
+      "d": "Binary Tree"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 20,
+    "difficulty_level": "medium",
+    "question": "Which sorting algorithm is stable and uses divide-and-conquer to sort the elements?",
+    "options": {
+      "a": "Merge Sort",
+      "b": "Quick Sort",
+      "c": "Heap Sort",
+      "d": "Selection Sort"
+    },
+    "answer": "a"
+  },
+  {
+    "index": 21,
+    "difficulty_level": "hard",
+    "question": "Which data structure allows O(1) complexity for both insertion and deletion but does not store elements in sorted order?",
+    "options": {
+      "a": "Binary Search Tree",
+      "b": "Hash Table",
+      "c": "Doubly Linked List",
+      "d": "Heap"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 22,
+    "difficulty_level": "hard",
+    "question": "Which design pattern allows an object to alter its behavior when its internal state changes?",
+    "options": {
+      "a": "Singleton",
+      "b": "Strategy",
+      "c": "Observer",
+      "d": "State"
+    },
+    "answer": "d"
+  },
+  {
+    "index": 23,
+    "difficulty_level": "hard",
+    "question": "In a red-black tree, which of the following properties is always maintained?",
+    "options": {
+      "a": "Every node is either red or black",
+      "b": "The tree is balanced based on the height",
+      "c": "Each leaf node must be red",
+      "d": "No path from root to leaf can have more than three black nodes"
+    },
+    "answer": "a"
+  },
+  {
+    "index": 24,
+    "difficulty_level": "hard",
+    "question": "Which of the following problems can be efficiently solved using dynamic programming?",
+    "options": {
+      "a": "Binary search in a sorted array",
+      "b": "Shortest path in an unweighted graph",
+      "c": "Longest Common Subsequence",
+      "d": "DFS traversal in a graph"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 25,
+    "difficulty_level": "hard",
+    "question": "What is the time complexity of Dijkstra's algorithm when implemented with a priority queue?",
+    "options": {
+      "a": "O(V^2)",
+      "b": "O(V + E log V)",
+      "c": "O(V log E)",
+      "d": "O(E^2)"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 26,
+    "difficulty_level": "hard",
+    "question": "Which of the following is true for the Floyd-Warshall algorithm?",
+    "options": {
+      "a": "It works only for acyclic graphs",
+      "b": "It uses backtracking to find paths",
+      "c": "It finds the shortest paths between all pairs of vertices",
+      "d": "It only finds the shortest path from a single source"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 27,
+    "difficulty_level": "hard",
+    "question": "What is the amortized time complexity for inserting an element into a dynamic array?",
+    "options": {
+      "a": "O(n)",
+      "b": "O(log n)",
+      "c": "O(1)",
+      "d": "O(n log n)"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 28,
+    "difficulty_level": "hard",
+    "question": "In Java, which of the following methods is used to prevent cloning of an object?",
+    "options": {
+      "a": "Override the `finalize()` method",
+      "b": "Implement `Serializable`",
+      "c": "Throw `CloneNotSupportedException`",
+      "d": "Override `toString()`"
+    },
+    "answer": "c"
+  },
+  {
+    "index": 29,
+    "difficulty_level": "hard",
+    "question": "Which graph traversal technique is most suitable for solving a maze with multiple paths?",
+    "options": {
+      "a": "Depth-First Search (DFS)",
+      "b": "Breadth-First Search (BFS)",
+      "c": "Dijkstra's Algorithm",
+      "d": "Kruskal's Algorithm"
+    },
+    "answer": "b"
+  },
+  {
+    "index": 30,
+    "difficulty_level": "hard",
+    "question": "Which scheduling algorithm is preemptive and allows processes to be interrupted based on their remaining burst time?",
+    "options": {
+      "a": "First-Come, First-Served (FCFS)",
+      "b": "Shortest Job Next (SJN)",
+      "c": "Round Robin (RR)",
+      "d": "Shortest Remaining Time First (SRTF)"
+    },
+    "answer": "d"
+  }]
+}
+   

@@ -1,0 +1,385 @@
+{
+    "questions": [
+      {
+        "index": 1,
+        "question": "What is business analysis?",
+        "options": {
+            "a": "The process of evaluating business systems and processes",
+            "b": "The study of financial aspects of a business",
+            "c": "A method for managing business operations",
+            "d": "A tool used for designing software systems"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 2,
+        "question": "What are the main responsibilities of a business analyst?",
+        "options": {
+            "a": "Writing code for the development team",
+            "b": "Defining business requirements and ensuring their alignment with business objectives",
+            "c": "Managing the company's finances",
+            "d": "Leading the marketing team"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 3,
+        "question": "What is the difference between a business analyst and a project manager?",
+        "options": {
+            "a": "A business analyst defines the business requirements, while a project manager oversees project execution",
+            "b": "A business analyst manages the project timeline, while a project manager writes business requirements",
+            "c": "A business analyst is a technical role, and a project manager is non-technical",
+            "d": "A business analyst is responsible for handling project finances"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 4,
+        "question": "What is a business requirement?",
+        "options": {
+            "a": "A solution designed to meet customer needs",
+            "b": "A process for project management",
+            "c": "A document outlining the needs and objectives of the business",
+            "d": "A feature of a business product"
+        },
+        "answer": "c",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 5,
+        "question": "What is a stakeholder in business analysis?",
+        "options": {
+            "a": "A person or group that can affect or be affected by the project",
+            "b": "A type of software used for project management",
+            "c": "The manager of the development team",
+            "d": "A person responsible for budgeting in the project"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 6,
+        "question": "What is a use case in business analysis?",
+        "options": {
+            "a": "A graphical representation of business requirements",
+            "b": "A scenario to identify how users interact with a system",
+            "c": "A list of business objectives",
+            "d": "A report on financial analysis"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 7,
+        "question": "What is the purpose of a SWOT analysis?",
+        "options": {
+            "a": "To evaluate a company's performance",
+            "b": "To assess strengths, weaknesses, opportunities, and threats",
+            "c": "To define business requirements",
+            "d": "To design software architecture"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 8,
+        "question": "What is the difference between functional and non-functional requirements?",
+        "options": {
+            "a": "Functional requirements describe what a system should do, while non-functional describes how it should perform",
+            "b": "Functional requirements are related to business goals, while non-functional relate to system performance only",
+            "c": "Functional requirements are optional, while non-functional are mandatory",
+            "d": "There is no difference between the two"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 9,
+        "question": "What is the importance of effective communication in business analysis?",
+        "options": {
+            "a": "It ensures the requirements are misunderstood",
+            "b": "It helps in defining the business requirements and aligning them with stakeholders",
+            "c": "It allows the business analyst to focus solely on technical details",
+            "d": "It helps in writing code more efficiently"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+        "index": 10,
+        "question": "What is a business process model?",
+        "options": {
+            "a": "A document outlining business objectives",
+            "b": "A diagram that visually represents business processes",
+            "c": "A tool used to analyze data",
+            "d": "A software tool used for managing projects"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "type": "business_analysis"
+    },
+    {
+      "index": 11,
+      "question": "What is requirements gathering, and why is it important?",
+      "options": {
+          "a": "It is the process of designing software, and it is not important",
+          "b": "It involves collecting business needs to ensure the final solution meets expectations",
+          "c": "It is used only for marketing purposes",
+          "d": "It is the same as coding"
+      },
+      "answer": "b",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 12,
+      "question": "What is the purpose of a business requirement document (BRD)?",
+      "options": {
+          "a": "To manage team finances",
+          "b": "To document business requirements and project goals",
+          "c": "To create project schedules",
+          "d": "To write code for the project"
+      },
+      "answer": "b",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 13,
+      "question": "What is gap analysis in business analysis?",
+      "options": {
+          "a": "A process to identify the difference between current and desired business states",
+          "b": "A tool for defining software requirements",
+          "c": "A technique to solve technical problems",
+          "d": "A report on project expenses"
+      },
+      "answer": "a",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 14,
+      "question": "What is the difference between qualitative and quantitative data analysis?",
+      "options": {
+          "a": "Qualitative is numerical, and quantitative is non-numerical",
+          "b": "Qualitative focuses on non-numerical data like opinions, while quantitative focuses on numerical data",
+          "c": "Qualitative is used in coding, and quantitative in project management",
+          "d": "There is no difference"
+      },
+      "answer": "b",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 15,
+      "question": "What is a stakeholder analysis?",
+      "options": {
+          "a": "A process of analyzing software code",
+          "b": "A process to identify and understand the interests of stakeholders in a project",
+          "c": "A method of project management",
+          "d": "A tool to design software architecture"
+      },
+      "answer": "b",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 16,
+      "question": "What are the steps involved in creating a business process flow?",
+      "options": {
+          "a": "Defining objectives, identifying stakeholders, creating flow diagrams",
+          "b": "Defining software features and coding",
+          "c": "Analyzing data and creating reports",
+          "d": "Creating project schedules"
+      },
+      "answer": "a",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 17,
+      "question": "What is a fishbone diagram, and how is it used in business analysis?",
+      "options": {
+          "a": "A method for identifying root causes of a problem",
+          "b": "A process to track project expenses",
+          "c": "A technique for writing business requirements",
+          "d": "A software used for project management"
+      },
+      "answer": "a",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 18,
+      "question": "What is the role of business analysts in Agile environments?",
+      "options": {
+          "a": "To manage project schedules",
+          "b": "To work closely with stakeholders to define and prioritize user stories",
+          "c": "To write code for the development team",
+          "d": "To track financial reports"
+      },
+      "answer": "b",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 19,
+      "question": "What is a user story in business analysis, and how is it used in Agile projects?",
+      "options": {
+          "a": "A detailed document outlining technical specifications",
+          "b": "A simple, non-technical description of a feature from the user's perspective",
+          "c": "A financial report",
+          "d": "A software design specification"
+      },
+      "answer": "b",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+  {
+      "index": 20,
+      "question": "What is a feasibility study, and why is it necessary for business analysis?",
+      "options": {
+          "a": "It is used to determine if the project is technically possible and financially viable",
+          "b": "It is used to design software architecture",
+          "c": "It is used to track project timelines",
+          "d": "It is used for writing business requirements"
+      },
+      "answer": "a",
+      "difficulty_level": "medium",
+      "type": "business_analysis"
+  },
+      {
+        "index": 21,
+        "question": "What is the Business Analysis Body of Knowledge (BABOK), and why is it important for business analysts?",
+        "options": {
+          "a": "A collection of business analysis tools and techniques",
+          "b": "A coding standard for developers",
+          "c": "A project management methodology",
+          "d": "A database for tracking stakeholder requirements"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 22,
+        "question": "What is the role of a business analyst in risk management?",
+        "options": {
+          "a": "To identify and assess risks and recommend mitigation strategies",
+          "b": "To write code for risk mitigation",
+          "c": "To track project timelines",
+          "d": "To manage team finances"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 23,
+        "question": "How do you perform a cost-benefit analysis for a project?",
+        "options": {
+          "a": "By analyzing the potential costs and benefits of the project and making a decision",
+          "b": "By writing business requirements",
+          "c": "By managing project timelines",
+          "d": "By developing software"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 24,
+        "question": "What are the key differences between process modeling techniques such as BPMN and UML?",
+        "options": {
+          "a": "BPMN is used for modeling business processes, and UML is used for modeling software systems",
+          "b": "BPMN is for tracking finances, and UML is for software design",
+          "c": "BPMN is used for Agile projects, and UML is used for waterfall projects",
+          "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 25,
+        "question": "What is business process reengineering (BPR), and when should it be applied?",
+        "options": {
+          "a": "A method to redesign business processes for improved performance, typically when existing processes are inefficient",
+          "b": "A process for designing software systems",
+          "c": "A method for tracking project progress",
+          "d": "A technique used for data analysis"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 26,
+        "question": "What is a requirements traceability matrix, and how do you use it in business analysis?",
+        "options": {
+          "a": "A document that ensures all requirements are tracked throughout the project lifecycle",
+          "b": "A tool for designing software code",
+          "c": "A financial report",
+          "d": "A method for managing stakeholders"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 27,
+        "question": "What are the key challenges in implementing change management in business analysis?",
+        "options": {
+          "a": "Dealing with resistance to change and ensuring smooth transitions",
+          "b": "Writing code for the change process",
+          "c": "Tracking project expenses",
+          "d": "Managing the project schedule"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 28,
+        "question": "How do you handle conflicting stakeholder requirements in business analysis?",
+        "options": {
+          "a": "By identifying priorities and finding common ground through discussions",
+          "b": "By ignoring the conflicting requirements",
+          "c": "By focusing on software code",
+          "d": "By deferring to the project manager"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 29,
+        "question": "What is root cause analysis, and how is it used to improve business processes?",
+        "options": {
+          "a": "A method for identifying the underlying cause of problems and addressing them for improvement",
+          "b": "A technique for writing business requirements",
+          "c": "A tool for designing software systems",
+          "d": "A process for tracking project timelines"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 30,
+        "question": "What are the different types of business models, and how do they impact business analysis?",
+        "options": {
+          "a": "Different business models affect the way business analysts approach requirements and processes",
+          "b": "Business models have no impact on business analysis",
+          "c": "Business models are only important for marketing teams",
+          "d": "Business models only affect financial reporting"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      }
+    ]
+  }
+  

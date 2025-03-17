@@ -1,0 +1,366 @@
+{
+    "questions": [
+        {
+            "index": 1,
+            "question": "What is software engineering?",
+            "options": {
+                "a": "The process of designing, developing, and maintaining software systems",
+                "b": "Writing code for a specific project",
+                "c": "The use of software tools for debugging",
+                "d": "A method of designing user interfaces"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 2,
+            "question": "What is the difference between software engineering and programming?",
+            "options": {
+                "a": "Software engineering involves designing and maintaining software, while programming involves writing code",
+                "b": "Software engineering focuses on algorithms, while programming focuses on data structures",
+                "c": "There is no difference",
+                "d": "Programming is more complex than software engineering"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 3,
+            "question": "What are the basic phases of the software development life cycle (SDLC)?",
+            "options": {
+                "a": "Planning, Design, Coding, Testing, Deployment",
+                "b": "Design, Testing, Launch, Review",
+                "c": "Coding, Debugging, Documentation, Review",
+                "d": "Requirement Gathering, Design"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 4,
+            "question": "What is the purpose of requirements gathering in software engineering?",
+            "options": {
+                "a": "To collect and document user needs and system specifications",
+                "b": "To write code for the project",
+                "c": "To identify bugs in the system",
+                "d": "To test the software"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 5,
+            "question": "What is a software design document?",
+            "options": {
+                "a": "A document outlining the architecture, components, and features of a software system",
+                "b": "A document describing the code written in the project",
+                "c": "A document that lists known bugs in the system",
+                "d": "A document for user interface designs"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 6,
+            "question": "What is debugging in software development?",
+            "options": {
+                "a": "The process of finding and fixing bugs in code",
+                "b": "The process of writing code",
+                "c": "The process of compiling code",
+                "d": "The process of testing the software"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 7,
+            "question": "What is unit testing?",
+            "options": {
+                "a": "Testing individual components or functions of a software",
+                "b": "Testing the entire system as a whole",
+                "c": "Testing the user interface only",
+                "d": "Testing the performance of the software"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 8,
+            "question": "What is the role of a software engineer?",
+            "options": {
+                "a": "Designing, developing, and maintaining software systems",
+                "b": "Writing documentation for software",
+                "c": "Managing a team of developers",
+                "d": "Marketing software products"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 9,
+            "question": "What is the difference between functional and non-functional requirements?",
+            "options": {
+                "a": "Functional requirements define what the system should do, non-functional define how the system should behave",
+                "b": "Functional requirements are related to user interface, non-functional are related to performance",
+                "c": "There is no difference",
+                "d": "Functional requirements are easier to implement than non-functional"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 10,
+            "question": "What is version control, and why is it important in software development?",
+            "options": {
+                "a": "Version control tracks and manages changes to software code, preventing conflicts and data loss",
+                "b": "Version control tracks project deadlines",
+                "c": "Version control is used for database management",
+                "d": "Version control is only used for design files"
+            },
+            "answer": "a",
+            "difficulty_level": "easy"
+        },
+        {
+            "index": 11,
+            "question": "What is the difference between waterfall and agile methodologies?",
+            "options": {
+                "a": "Waterfall is linear and sequential, while agile is iterative and flexible",
+                "b": "Waterfall uses sprints, while agile uses a single cycle",
+                "c": "Waterfall is faster than agile",
+                "d": "There is no difference between waterfall and agile"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 12,
+            "question": "What is a software development model?",
+            "options": {
+                "a": "A framework describing the process of developing software",
+                "b": "A model for generating user interfaces",
+                "c": "A model for managing system resources",
+                "d": "A design document for coding the software"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 13,
+            "question": "What is the purpose of a flowchart in software design?",
+            "options": {
+                "a": "To visually represent the logic and flow of a process or algorithm",
+                "b": "To describe the layout of the user interface",
+                "c": "To write the code for the system",
+                "d": "To track the version history"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 14,
+            "question": "What is an algorithm, and how is it related to software engineering?",
+            "options": {
+                "a": "An algorithm is a step-by-step procedure to solve a problem, and it is fundamental to software design and development",
+                "b": "An algorithm is a way to design user interfaces",
+                "c": "An algorithm is the software testing method",
+                "d": "An algorithm is a tool used in debugging"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 15,
+            "question": "What is object-oriented programming (OOP)?",
+            "options": {
+                "a": "A programming paradigm based on the concept of objects, which can contain data and methods",
+                "b": "A method for testing software",
+                "c": "A programming language used for system-level programming",
+                "d": "A tool used for debugging"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 16,
+            "question": "What is inheritance in OOP?",
+            "options": {
+                "a": "A mechanism where one class acquires the properties and behaviors of another class",
+                "b": "A process for organizing code into different modules",
+                "c": "A way to create new objects from existing ones",
+                "d": "A method of code refactoring"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 17,
+            "question": "What is the purpose of design patterns in software engineering?",
+            "options": {
+                "a": "To provide standard solutions to common software design problems",
+                "b": "To ensure faster coding",
+                "c": "To organize data efficiently",
+                "d": "To improve debugging speed"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 18,
+            "question": "What is continuous integration in software development?",
+            "options": {
+                "a": "The practice of frequently integrating code changes into a shared repository",
+                "b": "The practice of testing software after the final version is built",
+                "c": "The practice of writing automated tests for the system",
+                "d": "The practice of designing user interfaces"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 19,
+            "question": "What are the main differences between functional and object-oriented programming?",
+            "options": {
+                "a": "Functional programming focuses on functions and immutability, while OOP focuses on classes and objects",
+                "b": "Functional programming uses databases, while OOP uses files",
+                "c": "Functional programming is for system programming, while OOP is for web development",
+                "d": "There is no difference"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 20,
+            "question": "What is the role of an API in software engineering?",
+            "options": {
+                "a": "An API allows different software systems to communicate with each other",
+                "b": "An API is used for debugging",
+                "c": "An API is used to design the user interface",
+                "d": "An API is used for error handling"
+            },
+            "answer": "a",
+            "difficulty_level": "medium"
+        },
+        {
+            "index": 21,
+            "question": "What are the SOLID principles in object-oriented design?",
+            "options": {
+                "a": "A set of five principles that help design maintainable and flexible software",
+                "b": "A method for debugging software",
+                "c": "A system for automating code testing",
+                "d": "A set of rules for designing user interfaces"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 22,
+            "question": "What is the concept of software refactoring, and why is it important?",
+            "options": {
+                "a": "Refactoring is the process of improving the internal structure of code without changing its external behavior",
+                "b": "Refactoring is rewriting the entire code",
+                "c": "Refactoring is the process of debugging the software",
+                "d": "Refactoring is the practice of compressing code"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 23,
+            "question": "What is the difference between tight coupling and loose coupling in software design?",
+            "options": {
+                "a": "Tight coupling means that components are highly dependent on each other, while loose coupling means components are independent",
+                "b": "Tight coupling improves performance, while loose coupling reduces it",
+                "c": "Tight coupling is used in object-oriented programming, loose coupling is used in functional programming",
+                "d": "There is no difference"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 24,
+            "question": "What is the purpose of dependency injection in software engineering?",
+            "options": {
+                "a": "To inject dependencies into classes rather than hardcoding them, improving flexibility and testability",
+                "b": "To increase the performance of the system",
+                "c": "To automatically fix bugs in the code",
+                "d": "To define the database schema"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 25,
+            "question": "What is the difference between concurrency and parallelism in software systems?",
+            "options": {
+                "a": "Concurrency is dealing with multiple tasks at once, while parallelism is performing multiple tasks simultaneously",
+                "b": "Concurrency and parallelism are the same",
+                "c": "Concurrency refers to hardware, while parallelism refers to software",
+                "d": "Concurrency is used for debugging, while parallelism is used for testing"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 26,
+            "question": "What is the CAP theorem in distributed systems?",
+            "options": {
+                "a": "A principle stating that a distributed system can achieve at most two of the following: Consistency, Availability, and Partition tolerance",
+                "b": "A rule for organizing code into classes",
+                "c": "A method for managing version control in distributed systems",
+                "d": "A method for handling errors in distributed systems"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 27,
+            "question": "What is the concept of microservices, and how do they differ from monolithic architectures?",
+            "options": {
+                "a": "Microservices are small, independent services, while monolithic architectures are large, tightly integrated applications",
+                "b": "Microservices use a single database, while monolithic uses multiple databases",
+                "c": "Microservices are only used for mobile apps, while monolithic is used for desktop apps",
+                "d": "There is no difference"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 28,
+            "question": "What is test-driven development (TDD)?",
+            "options": {
+                "a": "A software development practice where tests are written before the actual code is implemented",
+                "b": "A method of refactoring code",
+                "c": "A tool used to debug code",
+                "d": "A technique for designing user interfaces"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 29,
+            "question": "What are some strategies for scaling a software system?",
+            "options": {
+                "a": "Using horizontal scaling, caching, and database optimization techniques",
+                "b": "Rewriting the entire codebase",
+                "c": "Only using a single server",
+                "d": "Designing user interfaces first"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        },
+        {
+            "index": 30,
+            "question": "What is the difference between a race condition and a deadlock in multi-threading?",
+            "options": {
+                "a": "A race condition occurs when multiple threads access shared data concurrently, leading to unpredictable results, while a deadlock occurs when threads are stuck waiting for each other to release resources",
+                "b": "A race condition is a type of memory leak, while a deadlock is a type of error",
+                "c": "There is no difference",
+                "d": "A race condition occurs when threads are not synchronized, while deadlocks occur only in distributed systems"
+            },
+            "answer": "a",
+            "difficulty_level": "hard"
+        }
+      ]
+      
+  }
+  

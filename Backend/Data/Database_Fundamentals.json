@@ -1,0 +1,364 @@
+{
+    "questions": [
+    {
+        "question": "Which of the following is a type of database?",
+        "options": {
+            "a": "Relational",
+            "b": "Hierarchical",
+            "c": "Network",
+            "d": "All of the above"
+        },
+        "answer": "d",
+        "difficulty_level": "easy",
+        "index":1
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": {
+            "a": "Simple Query Language",
+            "b": "Structured Query Language",
+            "c": "Standard Query Language",
+            "d": "Sequential Query Language"
+      },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index":2
+      },
+      {
+        "question": "Which of the following is not a database model?",
+        "options": {
+            "a": "Relational",
+            "b": "Object-Oriented",
+            "c": "File System",
+            "d": "Flat Model"
+      },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index":3
+      },
+      {
+        "question": "What is the purpose of a primary key?",
+        "options": {
+            "a": "To allow duplicate values",
+            "b": "To uniquely identify a record",
+            "c": "To delete records",
+            "d": "To join tables"
+      },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index":4
+      },
+      {
+        "question": "Which SQL statement is used to retrieve data?",
+        "options": {
+          "a": "SELECT",
+          "b": "INSERT",
+          "c": "UPDATE",
+          "d": "DELETE"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":5
+      },
+      {
+        "question": "Which of the following is NOT a characteristic of a foreign key in a relational database?",
+        "options": {
+          "a": "It can uniquely identify a row in a table.",
+          "b": "It refers to a primary key in another table",
+          "c": "It ensures referential integrity between tables",
+          "d": "It is used to establish relationships between two tables"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":6
+      },
+      {
+        "question": "In the context of normalization, what is the primary goal of third normal form (3NF)",
+        "options": {
+          "a": "To eliminate repeating groups within the table.",
+          "b": "To remove partial dependencies.",
+          "c": "To ensure that no transitive dependencies exist.",
+          "d": "To make sure that no redundant data is stored."
+        },
+        "answer": "c",
+        "difficulty_level": "hard",
+        "index":7
+      },
+      {
+        "question": "Which constraint ensures no duplicate values in a column?",
+        "options": {
+          "a": "NOT NULL",
+          "b": "UNIQUE",
+          "c": "CHECK",
+          "d": "FOREIGN KEY"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index":8
+      },
+      {
+        "question": "What does the CHECK constraint do?",
+        "options": {
+          "a": "Ensures a column cannot have NULL values",
+          "b": "Limits the range of values for a column",
+          "c": "Ensures a unique value for a column",
+          "d": "Links two tables"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index":9
+      },
+      {
+        "question": "Which key allows NULL values?",
+        "options": {
+          "a": "Primary Key",
+          "b": "Unique Key",
+          "c": "Composite Key",
+          "d": "Foreign Key"
+        },
+        "answer": "d",
+        "difficulty_level": "medium",
+        "index":10
+      },
+      {
+        "question": "What is the main purpose of normalization?",
+        "options": {
+          "a": "Increase redundancy",
+          "b": "Reduce redundancy",
+          "c": "Speed up queries",
+          "d": "Increase database size"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index":11
+      },
+      {
+        "question": "Which normal form eliminates partial dependency?",
+        "options": {
+          "a": "1NF",
+          "b": "2NF",
+          "c": "3NF",
+          "d": "BCNF"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index":12
+      },
+      {
+        "question": "A table is in 1NF if it:",
+        "options": {
+          "a": "Has no multivalued attributes",
+          "b": "Has no partial dependency",
+          "c": "Has no transitive dependency",
+          "d": "None of the above"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":13
+      },
+      {
+        "question": "Which of the following is an example of a composite key in a relational database?",
+        "options": {
+          "a": "A primary key consisting of a single column.",
+          "b": "A primary key consisting of multiple columns",
+          "c": "A foreign key referring to a single column in another table",
+          "d": "A key used to uniquely identify each row in a table"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":14
+      },
+      {
+        "question": "What does a 'normal form' in database design refer to?",
+        "options": {
+          "a": "The number of columns in a table",
+          "b": "The structure of a table and the relationships between its columns",
+          "c": "The procedure used to index a table",
+          "d": "The number of rows in a table"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index":15
+      },
+      {
+        "question": "Which SQL clause is used to filter data?",
+        "options": {
+          "a": "WHERE",
+          "b": "ORDER BY",
+          "c": "GROUP BY",
+          "d": "DISTINCT"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":16
+      },
+      {
+        "question": "The COUNT function in SQL is used to:",
+        "options": {
+          "a": "Count rows",
+          "b": "Add values",
+          "c": "Subtract values",
+          "d": "Multiply values"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":17
+      },
+      {
+        "question": "Which of the following is true about the 'ACID' properties in a relational database?",
+        "options": {
+          "a": "Atomicity ensures that if a transaction is incomplete, changes are rolled back.",
+          "b": "Consistency ensures that a transaction leaves the database in a consistent state",
+          "c": "Isolation ensures that intermediate transaction results are visible to other transactions",
+          "d": "Durability guarantees that the system will not crash after the transaction is committed."
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index":18
+      },
+      {
+        "question": "The JOIN operation in SQL is used to:",
+        "options": {
+          "a": "Delete records",
+          "b": "Insert data",
+          "c": "Combine data from tables",
+          "d": "None of the above"
+        },
+        "answer": "c",
+        "difficulty_level": "easy",
+        "index":19
+      },
+      {
+        "question": "What is the purpose of the DISTINCT keyword?",
+        "options": {
+          "a": "To eliminate duplicate rows",
+          "b": "To sort data",
+          "c": "To join tables",
+          "d": "To delete records"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":20
+      },
+      {
+        "question": "Which property of transactions ensures all changes are permanent?",
+        "options": {
+          "a": "Atomicity",
+          "b": "Consistency",
+          "c": "Isolation",
+          "d": "Durability"
+        },
+        "answer": "d",
+        "difficulty_level": "medium",
+        "index":21
+      },
+      {
+        "question": "What is a deadlock in database transactions?",
+        "options": {
+          "a": "A completed transaction",
+          "b": "Two transactions waiting for each other indefinitely",
+          "c": "A transaction rollback",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index":22
+      },
+      {
+        "question": "Which command is used to undo a transaction?",
+        "options": {
+          "a": "COMMIT",
+          "b": "SAVEPOINT",
+          "c": "ROLLBACK",
+          "d": "UPDATE"
+        },
+        "answer": "c",
+        "difficulty_level": "medium",
+        "index":23
+      },
+      {
+        "question": "ACID stands for:",
+        "options": {
+          "a": "Atomicity, Consistency, Integrity, Durability",
+          "b": "Atomicity, Consistency, Isolation, Durability",
+          "c": "Accuracy, Consistency, Integrity, Durability",
+          "d": "Atomicity, Correctness, Isolation, Durability"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index":24
+      },
+      {
+        "question": "Which of the following is not a transaction state?",
+        "options": {
+          "a": "Active",
+          "b": "Partially Committed",
+          "c": "Aborted",
+          "d": "Frozen"
+        },
+        "answer": "d",
+        "difficulty_level": "medium",
+        "index":25
+      },
+      {
+        "question": "In a relational database, what is the main purpose of a 'functional dependency'?",
+        "options": {
+          "a": "To define the relationship between tables",
+          "b": "To establish constraints on data updates",
+          "c": "To identify a relationship between two attributes such that one uniquely determines the other",
+          "d": "To optimize query performance"
+        },
+        "answer": "c",
+        "difficulty_level": "hard",
+        "index":26
+      },
+      {
+        "question": "Which of the following is a type of database join?",
+        "options": {
+          "a": "Inner Join",
+          "b": "Outer Join",
+          "c": "Cross Join",
+          "d": "All of the above"
+        },
+        "answer": "d",
+        "difficulty_level": "hard",
+        "index":27
+      },
+      {
+        "question": "What does the term 'sharding' refer to in databases?",
+        "options": {
+          "a": "Encrypting data",
+          "b": "Partitioning data across multiple servers",
+          "c": "Normalizing data",
+          "d": "Adding indexes"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index":28
+      },
+      {
+        "question": "Which is a NoSQL database?",
+        "options": {
+          "a": "MySQL",
+          "b": "MongoDB",
+          "c": "PostgreSQL",
+          "d": "Oracle"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index":29
+      },
+      {
+        "question": "Which type of database is used for real-time analytics?",
+        "options": {
+          "a": "OLAP",
+          "b": "OLTP",
+          "c": "Both",
+          "d": "None"
+        },
+        "answer": "a",
+        "difficulty_level": "",
+        "index":30
+      }
+    ]
+}

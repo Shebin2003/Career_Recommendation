@@ -1,0 +1,502 @@
+[
+    {
+      "type": "openness",
+      "question": "I enjoy trying new experiences and activities.",
+      "index": 1
+    },
+    {
+      "type": "openness",
+      "question": "I am curious about many different things.",
+      "index": 2
+    },
+    {
+      "type": "openness",
+      "question": "I often come up with new ideas or ways of doing things.",
+      "index": 3
+    },
+    {
+      "type": "openness",
+      "question": "I enjoy reading books or watching documentaries on new topics.",
+      "index": 4
+    },
+    {
+      "type": "openness",
+      "question": "I like thinking about abstract or philosophical concepts.",
+      "index": 5
+    },
+    {
+      "type": "openness",
+      "question": "I find beauty in art, music, and nature.",
+      "index": 6
+    },
+    {
+      "type": "openness",
+      "question": "I often seek out cultural experiences, such as visiting museums or exploring new cuisines.",
+      "index": 7
+    },
+    {
+      "type": "openness",
+      "question": "I feel excited when faced with new challenges.",
+      "index": 8
+    },
+    {
+      "type": "openness",
+      "question": "I value creativity and imagination over practicality.",
+      "index": 9
+    },
+    {
+      "type": "openness",
+      "question": "I enjoy exploring unfamiliar places or cultures.",
+      "index": 10
+    },
+    {
+      "type": "openness",
+      "question": "I feel drawn to learning about history, science, or the arts.",
+      "index": 11
+    },
+    {
+      "type": "openness",
+      "question": "I prefer variety over routine in my daily life.",
+      "index": 12
+    },
+    {
+      "type": "openness",
+      "question": "I enjoy discussing theories or ideas, even if they seem impractical.",
+      "index": 13
+    },
+    {
+      "type": "openness",
+      "question": "I consider myself an adventurous person.",
+      "index": 14
+    },
+    {
+      "type": "openness",
+      "question": "I am interested in topics that challenge my beliefs or perspectives.",
+      "index": 15
+    },
+    {
+      "type": "openness",
+      "question": "I appreciate unconventional or innovative ideas.",
+      "index": 16
+    },
+    {
+      "type": "openness",
+      "question": "I enjoy experimenting with new hobbies or skills.",
+      "index": 17
+    },
+    {
+      "type": "openness",
+      "question": "I often wonder about the meaning or purpose of life.",
+      "index": 18
+    },
+    {
+      "type": "openness",
+      "question": "I find inspiration in the works of great thinkers or artists.",
+      "index": 19
+    },
+    {
+      "type": "openness",
+      "question": "I feel energized by the possibility of personal growth and learning.",
+      "index": 20
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I keep my work area neat and organized.",
+      "index": 21
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I always follow through on my commitments.",
+      "index": 22
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I pay attention to details and avoid careless mistakes.",
+      "index": 23
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I enjoy planning my day and setting goals.",
+      "index": 24
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I complete tasks in advance rather than waiting until the last minute.",
+      "index": 25
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I find it important to be reliable and dependable.",
+      "index": 26
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I rarely procrastinate when I have something important to do.",
+      "index": 27
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I work hard to achieve success in my career or studies.",
+      "index": 28
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I avoid taking unnecessary risks in my work or personal life.",
+      "index": 29
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I prioritize important tasks over leisure activities.",
+      "index": 30
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I feel a sense of satisfaction when I complete my goals.",
+      "index": 31
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I keep track of deadlines and manage my time effectively.",
+      "index": 32
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I prefer structured schedules over spontaneous plans.",
+      "index": 33
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I am disciplined when it comes to achieving long-term goals.",
+      "index": 34
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I take pride in delivering high-quality work.",
+      "index": 35
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I avoid distractions when working on a project.",
+      "index": 36
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I am known for being dependable and trustworthy.",
+      "index": 37
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I enjoy making to-do lists and checking off tasks.",
+      "index": 38
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I often strive for perfection in my work.",
+      "index": 39
+    },
+    {
+      "type": "conscientiousness",
+      "question": "I feel motivated by the idea of accomplishing something meaningful.",
+      "index": 40
+    },
+    {
+      "type": "extraversion",
+      "question": "I feel comfortable meeting new people.",
+      "index": 41
+    },
+    {
+      "type": "extraversion",
+      "question": "I enjoy attending social events or parties.",
+      "index": 42
+    },
+    {
+      "type": "extraversion",
+      "question": "I find it easy to start conversations with strangers.",
+      "index": 43
+    },
+    {
+      "type": "extraversion",
+      "question": "I feel energized when I spend time with others.",
+      "index": 44
+    },
+    {
+      "type": "extraversion",
+      "question": "I like being the center of attention in a group.",
+      "index": 45
+    },
+    {
+      "type": "extraversion",
+      "question": "I enjoy taking on leadership roles.",
+      "index": 46
+    },
+    {
+      "type": "extraversion",
+      "question": "I prefer spending time with friends over being alone.",
+      "index": 47
+    },
+    {
+      "type": "extraversion",
+      "question": "I find it exciting to be in a lively, busy environment.",
+      "index": 48
+    },
+    {
+      "type": "extraversion",
+      "question": "I often feel enthusiastic about group activities.",
+      "index": 49
+    },
+    {
+      "type": "extraversion",
+      "question": "I enjoy participating in team sports or collaborative projects.",
+      "index": 50
+    },
+    {
+      "type": "extraversion",
+      "question": "I am talkative and expressive in social situations.",
+      "index": 51
+    },
+    {
+      "type": "extraversion",
+      "question": "I feel confident speaking in front of an audience.",
+      "index": 52
+    },
+    {
+      "type": "extraversion",
+      "question": "I enjoy making new friends wherever I go.",
+      "index": 53
+    },
+    {
+      "type": "extraversion",
+      "question": "I seek out opportunities to connect with others.",
+      "index": 54
+    },
+    {
+      "type": "extraversion",
+      "question": "I feel energized by interacting with large groups of people.",
+      "index": 55
+    },
+    {
+      "type": "extraversion",
+      "question": "I prefer working in teams rather than working alone.",
+      "index": 56
+    },
+    {
+      "type": "extraversion",
+      "question": "I often initiate plans or outings with friends.",
+      "index": 57
+    },
+    {
+      "type": "extraversion",
+      "question": "I enjoy being part of a vibrant and active community.",
+      "index": 58
+    },
+    {
+      "type": "extraversion",
+      "question": "I feel motivated when I\u2019m surrounded by positive, energetic people.",
+      "index": 59
+    },
+    {
+      "type": "extraversion",
+      "question": "I often take charge in social or professional settings.",
+      "index": 60
+    },
+    {
+      "type": "agreeableness",
+      "question": "I find it easy to trust others.",
+      "index": 61
+    },
+    {
+      "type": "agreeableness",
+      "question": "I enjoy helping others solve their problems.",
+      "index": 62
+    },
+    {
+      "type": "agreeableness",
+      "question": "I try to avoid conflict or arguments whenever possible.",
+      "index": 63
+    },
+    {
+      "type": "agreeableness",
+      "question": "I feel happy when I make others feel good.",
+      "index": 64
+    },
+    {
+      "type": "agreeableness",
+      "question": "I often consider the feelings of others before acting.",
+      "index": 65
+    },
+    {
+      "type": "agreeableness",
+      "question": "I prefer cooperation over competition.",
+      "index": 66
+    },
+    {
+      "type": "agreeableness",
+      "question": "I forgive others quickly when they make mistakes.",
+      "index": 67
+    },
+    {
+      "type": "agreeableness",
+      "question": "I feel compassion for people in need.",
+      "index": 68
+    },
+    {
+      "type": "agreeableness",
+      "question": "I value harmony in my relationships with others.",
+      "index": 69
+    },
+    {
+      "type": "agreeableness",
+      "question": "I often go out of my way to assist others.",
+      "index": 70
+    },
+    {
+      "type": "agreeableness",
+      "question": "I feel a sense of satisfaction when I can support or encourage someone.",
+      "index": 71
+    },
+    {
+      "type": "agreeableness",
+      "question": "I am sensitive to the emotions of people around me.",
+      "index": 72
+    },
+    {
+      "type": "agreeableness",
+      "question": "I avoid being critical or judgmental of others.",
+      "index": 73
+    },
+    {
+      "type": "agreeableness",
+      "question": "I strive to be kind and considerate in my interactions.",
+      "index": 74
+    },
+    {
+      "type": "agreeableness",
+      "question": "I enjoy working in environments that promote teamwork and collaboration.",
+      "index": 75
+    },
+    {
+      "type": "agreeableness",
+      "question": "I value relationships over personal gain or ambition.",
+      "index": 76
+    },
+    {
+      "type": "agreeableness",
+      "question": "I am willing to compromise to maintain peace in a situation.",
+      "index": 77
+    },
+    {
+      "type": "agreeableness",
+      "question": "I feel empathetic towards others who are struggling.",
+      "index": 78
+    },
+    {
+      "type": "agreeableness",
+      "question": "I enjoy mediating conflicts and finding solutions for everyone involved.",
+      "index": 79
+    },
+    {
+      "type": "agreeableness",
+      "question": "I often feel a sense of connection with the people around me.",
+      "index": 80
+    },
+    {
+      "type": "neuroticism",
+      "question": "I often feel anxious or worried.",
+      "index": 81
+    },
+    {
+      "type": "neuroticism",
+      "question": "I get upset easily when things don\u2019t go my way.",
+      "index": 82
+    },
+    {
+      "type": "neuroticism",
+      "question": "I feel insecure about my abilities or decisions.",
+      "index": 83
+    },
+    {
+      "type": "neuroticism",
+      "question": "I tend to overthink or dwell on negative experiences.",
+      "index": 84
+    },
+    {
+      "type": "neuroticism",
+      "question": "I often feel stressed out by daily challenges.",
+      "index": 85
+    },
+    {
+      "type": "neuroticism",
+      "question": "I get irritated or annoyed quickly.",
+      "index": 86
+    },
+    {
+      "type": "neuroticism",
+      "question": "I find it difficult to relax even when nothing is wrong.",
+      "index": 87
+    },
+    {
+      "type": "neuroticism",
+      "question": "I sometimes feel overwhelmed by my emotions.",
+      "index": 88
+    },
+    {
+      "type": "neuroticism",
+      "question": "I am easily affected by criticism or rejection.",
+      "index": 89
+    },
+    {
+      "type": "neuroticism",
+      "question": "I often worry about what others think of me.",
+      "index": 90
+    },
+    {
+      "type": "neuroticism",
+      "question": "I feel nervous when faced with uncertainty.",
+      "index": 91
+    },
+    {
+      "type": "neuroticism",
+      "question": "I experience mood swings frequently.",
+      "index": 92
+    },
+    {
+      "type": "neuroticism",
+      "question": "I often feel disappointed in myself when I make mistakes.",
+      "index": 93
+    },
+    {
+      "type": "neuroticism",
+      "question": "I tend to feel pessimistic about the future.",
+      "index": 94
+    },
+    {
+      "type": "neuroticism",
+      "question": "I have difficulty letting go of past hurts or failures.",
+      "index": 95
+    },
+    {
+      "type": "neuroticism",
+      "question": "I feel tense or uneasy in unfamiliar situations.",
+      "index": 96
+    },
+    {
+      "type": "neuroticism",
+      "question": "I often feel emotionally drained after stressful events.",
+      "index": 97
+    },
+    {
+      "type": "neuroticism",
+      "question": "I worry about how I compare to others.",
+      "index": 98
+    },
+    {
+      "type": "neuroticism",
+      "question": "I feel nervous when I am under pressure.",
+      "index": 99
+    },
+    {
+      "type": "neuroticism",
+      "question": "I often experience physical symptoms (e.g., headaches, fatigue) when I am stressed.",
+      "index": 100
+    }
+  ]

@@ -1,0 +1,395 @@
+{
+    "questions": [
+      {
+        "index": 1,
+        "question": "What is artificial intelligence (AI)?",
+        "options": {
+            "a": "A system that mimics human intelligence to perform tasks",
+            "b": "A type of machine learning",
+            "c": "A method of data analysis",
+            "d": "A type of deep learning"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 2,
+        "question": "What is machine learning (ML)?",
+        "options": {
+            "a": "A subset of artificial intelligence that allows systems to learn from data",
+            "b": "A method for collecting data from the internet",
+            "c": "A type of artificial intelligence",
+            "d": "A system that mimics human intelligence"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 3,
+        "question": "What is the difference between AI and machine learning?",
+        "options": {
+            "a": "AI is broader and includes machine learning",
+            "b": "AI and machine learning are the same",
+            "c": "Machine learning is broader than AI",
+            "d": "Machine learning is a type of AI, while AI also includes rule-based systems"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 4,
+        "question": "What is supervised learning?",
+        "options": {
+            "a": "A type of machine learning where the model is trained on labeled data",
+            "b": "A method of machine learning where no labeled data is used",
+            "c": "A machine learning technique for clustering",
+            "d": "A technique for neural network optimization"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 5,
+        "question": "What is unsupervised learning?",
+        "options": {
+            "a": "A type of machine learning where the model works with unlabeled data",
+            "b": "A method of machine learning that uses labeled data",
+            "c": "A method for predicting future outcomes",
+            "d": "A technique for solving classification problems"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 6,
+        "question": "What is a dataset in machine learning?",
+        "options": {
+            "a": "A collection of data used to train and test models",
+            "b": "A model used for classification",
+            "c": "A type of neural network",
+            "d": "A specific algorithm for data cleaning"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 7,
+        "question": "What is the purpose of a training set and a test set in machine learning?",
+        "options": {
+            "a": "Training set is used to train the model, and test set is used to evaluate its performance",
+            "b": "Training set is used to evaluate the model, and test set is used for optimization",
+            "c": "Training set is used for data cleaning, and test set is used for feature selection",
+            "d": "Both training and test sets are used for the same purpose"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 8,
+        "question": "What is a feature in a dataset?",
+        "options": {
+            "a": "An individual measurable property or characteristic of the dataset",
+            "b": "A type of machine learning algorithm",
+            "c": "A subset of the training data",
+            "d": "A model used for predictions"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 9,
+        "question": "What is a label in supervised learning?",
+        "options": {
+            "a": "The output variable or target value to predict",
+            "b": "A feature used to describe the dataset",
+            "c": "The process of training the model",
+            "d": "The method of clustering the data"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+    {
+        "index": 10,
+        "question": "What is overfitting in machine learning?",
+        "options": {
+            "a": "When a model learns too much from the training data and performs poorly on new data",
+            "b": "When a model underperforms due to a lack of training",
+            "c": "When a model ignores important features in the dataset",
+            "d": "When a model is overly simplified"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "type": "ai"
+    },
+      {
+        "index": 12,
+        "question": "What is the purpose of cross-validation in machine learning?",
+        "options": {
+          "a": "To assess the generalizability of a model by using multiple splits of the data",
+          "b": "To increase the size of the dataset",
+          "c": "To optimize model parameters",
+          "d": "To clean the data before training"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+      },
+      {
+        "index": 12,
+        "question": "What is the purpose of cross-validation in machine learning?",
+        "options": {
+            "a": "To assess the generalizability of a model by using multiple splits of the data",
+            "b": "To increase the size of the dataset",
+            "c": "To optimize model parameters",
+            "d": "To clean the data before training"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 13,
+        "question": "What is a decision tree in machine learning?",
+        "options": {
+            "a": "A tree-like structure used to make decisions based on feature values",
+            "b": "A model for clustering data",
+            "c": "A method for data preprocessing",
+            "d": "A type of deep learning algorithm"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 14,
+        "question": "What is k-nearest neighbors (KNN) algorithm?",
+        "options": {
+            "a": "A classification algorithm based on proximity to neighbors",
+            "b": "A type of neural network",
+            "c": "A method for feature selection",
+            "d": "A clustering algorithm"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 15,
+        "question": "What is a neural network in machine learning?",
+        "options": {
+            "a": "A set of algorithms inspired by the human brain, used for classification and regression tasks",
+            "b": "A method for analyzing large datasets",
+            "c": "A type of decision tree",
+            "d": "A technique for dimensionality reduction"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 16,
+        "question": "What is gradient descent in machine learning?",
+        "options": {
+            "a": "An optimization algorithm used to minimize the error of the model",
+            "b": "A type of regression analysis",
+            "c": "A data preprocessing technique",
+            "d": "A method for feature extraction"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 17,
+        "question": "What is the difference between batch gradient descent and stochastic gradient descent?",
+        "options": {
+            "a": "Batch gradient descent processes all data at once, stochastic gradient descent processes one data point at a time",
+            "b": "Batch gradient descent is faster, stochastic gradient descent is slower",
+            "c": "Both process data in the same way",
+            "d": "Stochastic gradient descent is used only for classification problems"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 18,
+        "question": "What is the purpose of regularization in machine learning?",
+        "options": {
+            "a": "To prevent overfitting by penalizing large weights",
+            "b": "To improve model accuracy",
+            "c": "To clean the data before training",
+            "d": "To speed up the training process"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 19,
+        "question": "What is the confusion matrix?",
+        "options": {
+            "a": "A tool for evaluating classification performance by comparing predicted and actual values",
+            "b": "A method for visualizing regression errors",
+            "c": "A technique for clustering data",
+            "d": "A type of neural network architecture"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+        "index": 20,
+        "question": "What is the difference between precision and recall in machine learning?",
+        "options": {
+            "a": "Precision is the proportion of true positive predictions out of all positive predictions, recall is the proportion of true positives out of all actual positives",
+            "b": "Precision is the same as recall",
+            "c": "Precision measures the false positives, recall measures the true negatives",
+            "d": "Precision and recall are unrelated metrics"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "type": "ai"
+    },
+    {
+      "index": 21,
+      "question": "What is the curse of dimensionality in machine learning?",
+      "options": {
+          "a": "The phenomenon where the model's performance degrades as the number of features increases",
+          "b": "The ability of the model to learn more from high-dimensional data",
+          "c": "The process of adding more data to the training set",
+          "d": "A method for optimizing machine learning models"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 22,
+      "question": "What are convolutional neural networks (CNNs), and where are they used?",
+      "options": {
+          "a": "A type of neural network designed for image processing tasks",
+          "b": "A type of neural network for sequential data",
+          "c": "A clustering algorithm",
+          "d": "A technique for dimensionality reduction"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 23,
+      "question": "What is a recurrent neural network (RNN)?",
+      "options": {
+          "a": "A type of neural network used for sequential data like time series or text",
+          "b": "A type of neural network for image classification",
+          "c": "A decision tree model",
+          "d": "A data mining technique"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 24,
+      "question": "What is the backpropagation algorithm in neural networks?",
+      "options": {
+          "a": "A method for optimizing the weights of a neural network by calculating gradients",
+          "b": "A method for splitting datasets",
+          "c": "A type of regularization technique",
+          "d": "A clustering algorithm"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 25,
+      "question": "What is the difference between L1 and L2 regularization in machine learning?",
+      "options": {
+          "a": "L1 regularization adds the absolute value of the weights, L2 adds the squared value of the weights",
+          "b": "L1 regularization is used for feature scaling, L2 for classification",
+          "c": "L1 regularization is more effective for large datasets",
+          "d": "L1 and L2 regularization are the same"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 26,
+      "question": "What is the purpose of dropout in neural networks?",
+      "options": {
+          "a": "To prevent overfitting by randomly disabling neurons during training",
+          "b": "To speed up the training process",
+          "c": "To optimize the loss function",
+          "d": "To scale the data"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 27,
+      "question": "What is reinforcement learning, and how does it differ from supervised and unsupervised learning?",
+      "options": {
+          "a": "Reinforcement learning involves agents learning from actions and rewards, while supervised and unsupervised learning involve learning from data",
+          "b": "Reinforcement learning is the same as supervised learning",
+          "c": "Reinforcement learning involves clustering data",
+          "d": "Reinforcement learning is a data preprocessing technique"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 28,
+      "question": "What is a support vector machine (SVM), and how does it work?",
+      "options": {
+          "a": "A supervised learning algorithm that finds the hyperplane that best separates data into classes",
+          "b": "A type of regression algorithm",
+          "c": "A clustering algorithm",
+          "d": "A method for dimensionality reduction"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 29,
+      "question": "What is transfer learning in machine learning?",
+      "options": {
+          "a": "Using pre-trained models on new tasks to improve efficiency",
+          "b": "A method of supervised learning",
+          "c": "A method for data augmentation",
+          "d": "A way to automate the training process"
+      },
+      "answer": "a",
+      "difficulty_level": "hard",
+      "type": "ai"
+  },
+  {
+      "index": 30,
+      "question": "What is the concept of unsupervised deep learning, and how does it differ from supervised learning?",
+      "options": {
+          "a": "Unsupervised deep learning uses labeled data to train models, while supervised learning uses unlabeled data",
+          "b": "Unsupervised deep learning learns patterns from unlabeled data, whereas supervised learning learns from labeled data",
+          "c": "Unsupervised deep learning requires manual feature engineering, while supervised learning does not",
+          "d": "Unsupervised deep learning uses a higher number of layers than supervised learning"
+      },
+      "answer": "b",
+      "difficulty_level": "hard",
+      "type": "ai"
+  }
+    ]
+}
+  

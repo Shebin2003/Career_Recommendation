@@ -1,0 +1,352 @@
+{
+    "questions": [
+            {
+                "index": 1,
+                "question": "What is the purpose of a router in a network?",
+                "options": {
+                    "a": "To connect devices within a network",
+                    "b": "To route data packets between networks",
+                    "c": "To store files for a network",
+                    "d": "To manage IP addresses"
+                },
+                "answer": "b",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 2,
+                "question": "What is the difference between a hub and a switch?",
+                "options": {
+                    "a": "A hub is wireless, a switch is wired",
+                    "b": "A hub broadcasts data to all devices, a switch sends data to specific devices",
+                    "c": "A hub uses IP addresses, a switch uses MAC addresses",
+                    "d": "A hub has fewer ports than a switch"
+                },
+                "answer": "b",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 3,
+                "question": "What is an IP address?",
+                "options": {
+                    "a": "A unique identifier for devices on a network",
+                    "b": "A network's physical address",
+                    "c": "The address of a website",
+                    "d": "A protocol for connecting to the internet"
+                },
+                "answer": "a",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 4,
+                "question": "What is DNS and how does it work?",
+                "options": {
+                    "a": "Converts domain names to IP addresses",
+                    "b": "Connects computers in a network",
+                    "c": "Encrypts data during transmission",
+                    "d": "Assigns MAC addresses to devices"
+                },
+                "answer": "a",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 5,
+                "question": "What is a subnet mask?",
+                "options": {
+                    "a": "A security protocol for networks",
+                    "b": "Defines the range of IP addresses in a network",
+                    "c": "Translates IP addresses to domain names",
+                    "d": "Assigns MAC addresses to devices"
+                },
+                "answer": "b",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 6,
+                "question": "What is DHCP and how does it work?",
+                "options": {
+                    "a": "Assigns IP addresses dynamically",
+                    "b": "Resolves domain names to IP addresses",
+                    "c": "Encrypts network data",
+                    "d": "Manages VLAN configurations"
+                },
+                "answer": "a",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 7,
+                "question": "What is a MAC address?",
+                "options": {
+                    "a": "A unique hardware identifier for network devices",
+                    "b": "A software protocol for IP addressing",
+                    "c": "A protocol for wireless networks",
+                    "d": "A domain name assigned to a computer"
+                },
+                "answer": "a",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 8,
+                "question": "What is the role of a gateway in a network?",
+                "options": {
+                    "a": "To connect different networks",
+                    "b": "To provide IP addresses",
+                    "c": "To resolve domain names",
+                    "d": "To encrypt data"
+                },
+                "answer": "a",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 9,
+                "question": "What is NAT (Network Address Translation)?",
+                "options": {
+                    "a": "Converts private IP addresses to public IP addresses",
+                    "b": "Manages network traffic encryption",
+                    "c": "Distributes IP addresses dynamically",
+                    "d": "Routes data packets within a local network"
+                },
+                "answer": "a",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 10,
+                "question": "What is HTTP and how does it work?",
+                "options": {
+                    "a": "A protocol for sending emails",
+                    "b": "A protocol for transferring web pages",
+                    "c": "A protocol for encrypting data",
+                    "d": "A protocol for assigning IP addresses"
+                },
+                "answer": "b",
+                "difficulty_level": "easy"
+            },
+            {
+                "index": 11,
+                "question": "What are the 7 layers of the OSI model?",
+                "options": {
+                    "a": "Physical, Data Link, Network, Transport, Session, Presentation, Application",
+                    "b": "Hardware, Software, Transport, Application, Data Link, Network, Physical",
+                    "c": "Physical, Network, Data Link, Presentation, Transport, Application, Security",
+                    "d": "Transport, Physical, Network, Data, Security, Session, Presentation"
+                },
+                "answer": "a",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 12,
+                "question": "What is the difference between IPv4 and IPv6?",
+                "options": {
+                    "a": "IPv4 uses 64-bit addresses, IPv6 uses 128-bit addresses",
+                    "b": "IPv4 uses 32-bit addresses, IPv6 uses 128-bit addresses",
+                    "c": "IPv4 supports more devices than IPv6",
+                    "d": "IPv4 is for private networks, IPv6 is for public networks"
+                },
+                "answer": "b",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 13,
+                "question": "What is ARP (Address Resolution Protocol)?",
+                "options": {
+                    "a": "Resolves MAC addresses to IP addresses",
+                    "b": "Resolves IP addresses to MAC addresses",
+                    "c": "Encrypts data packets for transmission",
+                    "d": "Manages DNS resolutions"
+                },
+                "answer": "b",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 14,
+                "question": "What is a socket in networking?",
+                "options": {
+                    "a": "A physical port for connecting devices",
+                    "b": "An endpoint for communication between devices",
+                    "c": "A hardware interface for networks",
+                    "d": "A protocol for IP addressing"
+                },
+                "answer": "b",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 15,
+                "question": "What is the role of the transport layer in the OSI model?",
+                "options": {
+                    "a": "Encrypts data for secure transmission",
+                    "b": "Routes data packets between networks",
+                    "c": "Manages error detection and flow control",
+                    "d": "Converts domain names to IP addresses"
+                },
+                "answer": "c",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 16,
+                "question": "What is the difference between TCP and UDP?",
+                "options": {
+                    "a": "TCP is faster than UDP",
+                    "b": "TCP is connection-oriented, UDP is connectionless",
+                    "c": "UDP is more secure than TCP",
+                    "d": "TCP is for streaming, UDP is for emails"
+                },
+                "answer": "b",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 17,
+                "question": "What is the TCP three-way handshake process?",
+                "options": {
+                    "a": "SYN, SYN-ACK, ACK",
+                    "b": "SYN, ACK, SYN-ACK",
+                    "c": "ACK, SYN, SYN-ACK",
+                    "d": "SYN-ACK, ACK, SYN"
+                },
+                "answer": "a",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 18,
+                "question": "What is a VLAN and why is it used in networks?",
+                "options": {
+                    "a": "A virtual network to separate devices logically",
+                    "b": "A protocol for dynamic IP assignment",
+                    "c": "A method for securing wireless networks",
+                    "d": "A standard for encrypting data"
+                },
+                "answer": "a",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 19,
+                "question": "What is FTP and what are its modes?",
+                "options": {
+                    "a": "A protocol for file transfers; active and passive modes",
+                    "b": "A protocol for dynamic IP assignment; static and dynamic modes",
+                    "c": "A protocol for network encryption; secure and non-secure modes",
+                    "d": "A protocol for email transfers; POP3 and IMAP modes"
+                },
+                "answer": "a",
+                "difficulty_level": "medium"
+            },
+            {
+                "index": 21,
+                "question": "What is the function of the data link layer?",
+                "options": {
+                    "a": "Manages physical connections between devices",
+                    "b": "Provides error detection and data framing",
+                    "c": "Routes data packets between networks",
+                    "d": "Encrypts data for secure transmission"
+                },
+                "answer": "b",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 22,
+                "question": "What is the role of the session layer in the OSI model?",
+                "options": {
+                    "a": "Manages communication sessions between applications",
+                    "b": "Encrypts data for secure transmission",
+                    "c": "Handles error detection in data transmission",
+                    "d": "Manages routing of data packets"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 23,
+                "question": "What is the difference between a switch and a router in terms of their OSI layer functions?",
+                "options": {
+                    "a": "Switches operate at Layer 2, routers operate at Layer 3",
+                    "b": "Switches operate at Layer 1, routers operate at Layer 3",
+                    "c": "Switches operate at Layer 3, routers operate at Layer 2",
+                    "d": "Both operate at Layer 2"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 24,
+                "question": "What is SSL/TLS and how does it secure a network?",
+                "options": {
+                    "a": "A protocol for encrypting data between a client and server",
+                    "b": "A method for assigning IP addresses dynamically",
+                    "c": "A tool for monitoring network traffic",
+                    "d": "A protocol for transferring files securely"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 25,
+                "question": "What is VPN and how does it work?",
+                "options": {
+                    "a": "A network that uses public internet infrastructure for private communication",
+                    "b": "A security tool for managing passwords",
+                    "c": "A system for routing traffic within a local area network",
+                    "d": "A protocol for transferring web pages securely"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 26,
+                "question": "What is SNMP (Simple Network Management Protocol)?",
+                "options": {
+                    "a": "A protocol for managing devices on a network",
+                    "b": "A method for securing email communication",
+                    "c": "A protocol for DNS resolution",
+                    "d": "A standard for encrypting network traffic"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 27,
+                "question": "What is the role of DNS in website access?",
+                "options": {
+                    "a": "Converts domain names to IP addresses",
+                    "b": "Ensures secure data transmission",
+                    "c": "Routes packets between different networks",
+                    "d": "Manages user authentication and access"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 28,
+                "question": "What is the difference between POP3 and IMAP?",
+                "options": {
+                    "a": "POP3 downloads emails, IMAP allows access to emails without downloading",
+                    "b": "POP3 is used for sending emails, IMAP is used for receiving emails",
+                    "c": "POP3 encrypts emails, IMAP does not",
+                    "d": "POP3 works on secure networks, IMAP works on public networks"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 29,
+                "question": "What is ICMP and how does it function?",
+                "options": {
+                    "a": "A protocol used for error reporting and diagnostics in networks",
+                    "b": "A protocol for encrypting network traffic",
+                    "c": "A method for routing data between networks",
+                    "d": "A standard for managing network traffic"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            },
+            {
+                "index": 30,
+                "question": "What is the difference between TCP and IP in the TCP/IP model?",
+                "options": {
+                    "a": "TCP handles data transmission reliability, IP handles addressing and routing",
+                    "b": "TCP handles network security, IP handles data transmission",
+                    "c": "TCP handles IP addressing, IP handles session management",
+                    "d": "TCP handles error checking, IP handles encryption"
+                },
+                "answer": "a",
+                "difficulty_level": "hard"
+            }
+    ]
+}

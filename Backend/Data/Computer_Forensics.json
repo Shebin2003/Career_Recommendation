@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "index": 1,
+        "question": "What is computer forensics?",
+        "options": {
+          "a": "The process of recovering lost data from hard drives",
+          "b": "The process of gathering, analyzing, and presenting digital evidence",
+          "c": "The act of hacking into systems to retrieve information",
+          "d": "The analysis of physical evidence related to cyber crimes"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 2,
+        "question": "What is digital evidence?",
+        "options": {
+          "a": "Physical evidence such as documents and fingerprints",
+          "b": "Information or data stored in a digital form that can be used in investigations",
+          "c": "Images or videos from surveillance cameras",
+          "d": "Emails or written communication in a legal document"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 3,
+        "question": "What is a chain of custody in computer forensics?",
+        "options": {
+          "a": "A list of tools used in the investigation",
+          "b": "A record of the handling of evidence to maintain its integrity",
+          "c": "A process for retrieving digital data from a hard drive",
+          "d": "The act of securing the digital evidence from external threats"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 4,
+        "question": "What is a forensic image?",
+        "options": {
+          "a": "A backup copy of a computer system's data",
+          "b": "A detailed report of a forensic analysis",
+          "c": "An exact, bit-by-bit copy of a storage device",
+          "d": "A snapshot of a system's current state during analysis"
+        },
+        "answer": "c",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 5,
+        "question": "What is the role of a computer forensic investigator?",
+        "options": {
+          "a": "To solve cyber crimes by monitoring social media",
+          "b": "To retrieve and analyze digital evidence to solve criminal cases",
+          "c": "To manage a database of cyber crime reports",
+          "d": "To create software for identifying malware threats"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 6,
+        "question": "What are the basic steps involved in a computer forensics investigation?",
+        "options": {
+          "a": "Identifying, securing, analyzing, and reporting digital evidence",
+          "b": "Reading, writing, deleting, and sharing digital evidence",
+          "c": "Backing up data, restoring data, and transferring evidence",
+          "d": "Accessing a system, collecting data, and destroying evidence"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 7,
+        "question": "What is data acquisition in computer forensics?",
+        "options": {
+          "a": "The process of acquiring new software for an investigation",
+          "b": "The process of securing and capturing digital data for analysis",
+          "c": "The act of retrieving deleted data from a system",
+          "d": "The process of creating a backup copy of digital evidence"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 8,
+        "question": "What is the difference between volatile and non-volatile data?",
+        "options": {
+          "a": "Volatile data is stored in RAM and non-volatile data is stored in a hard drive",
+          "b": "Volatile data is encrypted and non-volatile data is not",
+          "c": "Volatile data is stored in external devices and non-volatile data is in the cloud",
+          "d": "Volatile data cannot be deleted and non-volatile data can be"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 9,
+        "question": "What is a forensic toolkit?",
+        "options": {
+          "a": "A set of physical tools for recovering deleted data",
+          "b": "Software tools used for conducting forensic investigations",
+          "c": "A manual for following forensics procedures",
+          "d": "A guide for setting up security protocols for digital systems"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 10,
+        "question": "What is the purpose of hashing in computer forensics?",
+        "options": {
+          "a": "To encrypt data for secure transfer",
+          "b": "To verify the integrity of digital evidence",
+          "c": "To recover lost files from a damaged device",
+          "d": "To compress files for storage"
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 11,
+        "question": "What is the difference between live and dead analysis in computer forensics?",
+        "options": {
+          "a": "Live analysis involves analyzing a running system, dead analysis involves analyzing a powered-off system",
+          "b": "Live analysis involves analyzing physical evidence, dead analysis involves digital data",
+          "c": "Live analysis uses forensic toolkits, dead analysis uses basic software",
+          "d": "Live analysis is used for malware detection, dead analysis is used for evidence collection"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 12,
+        "question": "What is a forensic duplicate?",
+        "options": {
+          "a": "A backup copy of a system's data for analysis",
+          "b": "An exact copy of digital evidence for integrity verification",
+          "c": "A method for deleting sensitive files securely",
+          "d": "A tool used for monitoring system activity"
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 13,
+        "question": "What is the importance of data carving in digital forensics?",
+        "options": {
+          "a": "It helps recover fragmented files from unallocated space",
+          "b": "It secures the data during an investigation",
+          "c": "It monitors network activity during an attack",
+          "d": "It protects encrypted files from being altered"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 14,
+        "question": "What is the purpose of creating a forensic image of a storage device?",
+        "options": {
+          "a": "To create a backup of files",
+          "b": "To preserve the integrity of the original device while analyzing data",
+          "c": "To speed up the analysis process",
+          "d": "To securely delete sensitive data from the device"
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 15,
+        "question": "What are some common file systems used in computer forensics?",
+        "options": {
+          "a": "NTFS, FAT, and exFAT",
+          "b": "Windows OS and Mac OS",
+          "c": "SSH and FTP",
+          "d": "HTTPS and HTTP"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 16,
+        "question": "What is the role of metadata in digital forensics?",
+        "options": {
+          "a": "It is used for securing files during transfer",
+          "b": "It helps identify the origin, modification date, and access history of digital evidence",
+          "c": "It helps recover deleted data from storage devices",
+          "d": "It is used for organizing files and folders"
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 17,
+        "question": "What is the significance of time stamps in digital evidence?",
+        "options": {
+          "a": "They track the file creation date and time",
+          "b": "They are used for deleting files at a specific time",
+          "c": "They prevent the modification of files",
+          "d": "They are used to store file passwords"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 18,
+        "question": "What is anti-forensics, and how can it affect investigations?",
+        "options": {
+          "a": "Methods used to counter digital forensics techniques and hinder investigations",
+          "b": "The process of securing data using encryption",
+          "c": "Methods used to recover deleted data",
+          "d": "Tools for improving the efficiency of data acquisition"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 19,
+        "question": "What are some common tools used in computer forensics investigations?",
+        "options": {
+          "a": "EnCase, FTK Imager, and Autopsy",
+          "b": "Photoshop and Word",
+          "c": "Excel and SQL",
+          "d": "Nmap and Wireshark"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 20,
+        "question": "What is the role of encryption in digital forensics?",
+        "options": {
+          "a": "It helps secure digital evidence during transfer",
+          "b": "It is used to verify the authenticity of files",
+          "c": "It hides the evidence from investigators",
+          "d": "It prevents the recovery of deleted files"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 21,
+        "question": "What is the difference between logical and physical forensic analysis?",
+        "options": {
+          "a": "Logical analysis involves analyzing file systems, while physical analysis involves retrieving raw data from storage devices",
+          "b": "Logical analysis is used for encrypting data, while physical analysis is for securing networks",
+          "c": "Logical analysis focuses on recovering deleted files, while physical analysis focuses on examining active files",
+          "d": "Logical analysis involves analyzing cloud data, while physical analysis involves network forensics"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 22,
+        "question": "What is the role of hash algorithms in verifying the integrity of digital evidence?",
+        "options": {
+          "a": "They encrypt data for secure transmission",
+          "b": "They provide a unique identifier for data, ensuring its integrity during analysis",
+          "c": "They compress data for storage",
+          "d": "They anonymize digital evidence for privacy protection"
+        },
+        "answer": "b",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 23,
+        "question": "What is the process of memory forensics, and why is it important?",
+        "options": {
+          "a": "It involves analyzing the contents of volatile memory (RAM) to uncover information such as running processes and system activity",
+          "b": "It is used to secure data by encrypting memory storage",
+          "c": "It focuses on recovering deleted files from memory",
+          "d": "It is a method for monitoring the health of system memory"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 24,
+        "question": "What is cloud forensics, and how does it differ from traditional computer forensics?",
+        "options": {
+          "a": "Cloud forensics involves analyzing data stored in cloud environments, while traditional forensics deals with local, physical devices",
+          "b": "Cloud forensics involves monitoring cloud security protocols, while traditional forensics focuses on network traffic analysis",
+          "c": "Cloud forensics is used for encrypting data, while traditional forensics is focused on decrypting it",
+          "d": "Cloud forensics involves analyzing data across social media platforms"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 25,
+        "question": "How does file system analysis play a role in computer forensics?",
+        "options": {
+          "a": "It helps recover fragmented files and examines the organization of data within a file system",
+          "b": "It is used to monitor network traffic and system logs",
+          "c": "It protects data by encrypting file systems",
+          "d": "It identifies potential file system vulnerabilities"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 26,
+        "question": "What is the process of network forensics, and what tools are used for it?",
+        "options": {
+          "a": "Network forensics involves monitoring and analyzing network traffic to investigate cyber crimes, with tools like Wireshark and tcpdump",
+          "b": "Network forensics involves securing networks from threats using firewalls and intrusion detection systems",
+          "c": "Network forensics focuses on cloud-based network analysis using encryption algorithms",
+          "d": "Network forensics is the process of tracking IP addresses in cyber attacks"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 27,
+        "question": "What is steganography, and how can it impact computer forensics investigations?",
+        "options": {
+          "a": "Steganography is the practice of hiding data within other files or messages, making it difficult for investigators to detect",
+          "b": "Steganography is the process of encrypting digital evidence for secure storage",
+          "c": "Steganography is used for tracking the location of digital evidence in real-time",
+          "d": "Steganography is a method of compressing files during transmission"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 28,
+        "question": "What is the significance of internet artifacts in digital forensics investigations?",
+        "options": {
+          "a": "They provide a trail of online activity, such as web browsing history and downloads, useful for establishing timelines and links to suspects",
+          "b": "They help hide evidence from investigators by masking online activity",
+          "c": "They are used to recover deleted files from internet browsers",
+          "d": "They encrypt digital communications for secure transfer"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 29,
+        "question": "What is the role of computer forensics in the legal process?",
+        "options": {
+          "a": "To provide evidence for criminal cases by presenting digital evidence in court",
+          "b": "To monitor network traffic for signs of cyber crime",
+          "c": "To assist in encryption and secure digital transactions",
+          "d": "To provide encryption tools for legal professionals"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 30,
+        "question": "What challenges does computer forensics face in investigating encrypted or anonymized data?",
+        "options": {
+          "a": "Encrypted or anonymized data is difficult to analyze, requiring advanced decryption techniques or legal authorization to break encryption",
+          "b": "Encrypted data is easier to analyze than unencrypted data",
+          "c": "Anonymized data can always be recovered with proper tools",
+          "d": "Encrypted and anonymized data are not relevant to computer forensics investigations"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      }
+    ]
+  }
+  

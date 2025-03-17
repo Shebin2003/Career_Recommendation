@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following architectures is primarily used to increase the instruction throughput by overlapping fetch, decode, and execute stages in a pipeline?",
+        "options": {
+          "a": "Harvard Architecture",
+          "b": "RISC Architecture",
+          "c": "CISC Architecture",
+          "d": "Superscalar Architecture"
+        },
+        "answer": "d",
+        "difficulty_level": "hard",
+        "index": 1
+      },
+      {
+        "question": "Which of the following is not a part of the CPU?",
+        "options": {
+          "a": "ALU",
+          "b": "Control Unit",
+          "c": "Memory Unit",
+          "d": "Registers"
+        },
+        "answer": "c",
+        "difficulty_level": "easy",
+        "index": 2
+      },
+      {
+        "question": "In a virtual memory system, which of the following is used to map logical addresses to physical addresses?",
+        "options": {
+          "a": "Translation Lookaside Buffer (TLB)",
+          "b": "Cache Memory",
+          "c": "Instruction Cache",
+          "d": "Memory Segmentation"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 3
+      },
+      {
+        "question": "What is the primary role of the memory management unit (MMU) in a computer system?",
+        "options": {
+          "a": "Managing input/output operations",
+          "b": "Translating logical addresses to physical addresses",
+          "c": "Executing program instructions",
+          "d": "Storing data and programs"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index": 4
+      },
+      {
+        "question": "What is the advantage of having a larger cache size in a CPU architecture?",
+        "options": {
+          "a": "Increased access time",
+          "b": "Decreased power consumption",
+          "c": "Reduced cache miss rate",
+          "d": "Reduced instruction set size"
+        },
+        "answer": "c",
+        "difficulty_level": "hard",
+        "index": 5
+      },
+      {
+        "question": "Which memory is the fastest?",
+        "options": {
+          "a": "Cache",
+          "b": "RAM",
+          "c": "ROM",
+          "d": "Hard Drive"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index": 6
+      },
+      {
+        "question": "What is the function of cache memory?",
+        "options": {
+          "a": "Stores the operating system",
+          "b": "Speeds up data access",
+          "c": "Permanent data storage",
+          "d": "Stores input data"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 7
+      },
+      {
+        "question": "Which of the following is volatile memory?",
+        "options": {
+          "a": "ROM",
+          "b": "Flash memory",
+          "c": "RAM",
+          "d": "SSD"
+        },
+        "answer": "c",
+        "difficulty_level": "easy",
+        "index": 8
+      },
+      {
+        "question": "Which of the following techniques is used to handle memory fragmentation in an operating system?",
+        "options": {
+          "a": "Paging",
+          "b": "Segmentation",
+          "c": "File Compression",
+          "d": "Dynamic Allocation"
+        },
+        "answer": "c",
+        "difficulty_level": "hard",
+        "index": 9
+      },
+      {
+        "question": "Which type of memory is used for BIOS?",
+        "options": {
+          "a": "RAM",
+          "b": "ROM",
+          "c": "Flash memory",
+          "d": "Cache"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 10
+      },
+          {
+            "question": "What are the stages of the instruction cycle?",
+            "options": {
+              "a": "Fetch, Decode, Execute",
+              "b": "Decode, Fetch, Execute",
+              "c": "Execute, Fetch, Decode",
+              "d": "None of the above"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index": 11
+          },
+          {
+            "question": "Which instruction specifies an operation?",
+            "options": {
+              "a": "Operand",
+              "b": "Opcode",
+              "c": "Address",
+              "d": "Register"
+            },
+            "answer": "b",
+            "difficulty_level": "easy",
+            "index": 12
+          },
+          {
+            "question": "What is pipelining in computer architecture?",
+            "options": {
+              "a": "Simultaneous execution of multiple instructions",
+              "b": "Sequential execution of instructions",
+              "c": "Overlapping instruction execution stages",
+              "d": "Storing instructions in memory"
+            },
+            "answer": "c",
+            "difficulty_level": "medium",
+            "index": 13
+          },
+          {
+            "question": "What causes a pipeline stall?",
+            "options": {
+              "a": "Insufficient memory",
+              "b": "Data dependency",
+              "c": "Power failure",
+              "d": "Cache overflow"
+            },
+            "answer": "b",
+            "difficulty_level": "easy",
+            "index": 14
+          },
+          {
+            "question": "In a MIPS processor, what does the 'lw' instruction do?",
+            "options": {
+              "a": "It performs a load operation from memory",
+              "b": "It writes data to memory",
+              "c": "It performs a logical AND operation",
+              "d": "It loads a value into the accumulator"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index": 15
+          },
+          {
+            "question": "Which type of processor uses a fixed instruction length?",
+            "options": {
+              "a": "CISC",
+              "b": "RISC",
+              "c": "VLIW",
+              "d": "None"
+            },
+            "answer": "b",
+            "difficulty_level": "easy",
+            "index": 16
+          },
+          {
+            "question": "What is a multi-core processor?",
+            "options": {
+              "a": "Single processor with multiple chips",
+              "b": "Processor with multiple cores in one chip",
+              "c": "Dual CPUs connected by a bus",
+              "d": "A redundant processor"
+            },
+            "answer": "b",
+            "difficulty_level": "medium",
+            "index": 17
+          },
+          {
+            "question": "Which type of processor executes fewer instructions per cycle?",
+            "options": {
+              "a": "CISC",
+              "b": "RISC",
+              "c": "GPU",
+              "d": "DSP"
+            },
+            "answer": "b",
+            "difficulty_level": "medium",
+            "index": 18
+          },
+          {
+            "question": "In which of the following types of memory is the data lost when the power is turned off?",
+            "options": {
+              "a": "SRAM",
+              "b": "DRAM",
+              "c": "Flash memory",
+              "d": "ROM"
+            },
+            "answer": "b",
+            "difficulty_level": "hard",
+            "index": 19
+          },
+          {
+            "question": "What is the purpose of pipelining in computer architecture?",
+            "options": {
+              "a": "Increase the CPU's clock speed",
+              "b": "Increase the throughput of the processor by overlapping instruction execution",
+              "c": "Reduce the CPU’s power consumption",
+              "d": "Minimize the use of registers"
+            },
+            "answer": "b",
+            "difficulty_level": "hard",
+            "index": 20
+          },
+          {
+            "question": "What is an interrupt in computer systems?",
+            "options": {
+              "a": "A temporary stop in a program",
+              "b": "Signal to the processor",
+              "c": "Execution of an instruction",
+              "d": "Device failure"
+            },
+            "answer": "b",
+            "difficulty_level": "easy",
+            "index": 21
+          },
+          {
+            "question": "Which of the following is an I/O technique?",
+            "options": {
+              "a": "Programmed I/O",
+              "b": "Interrupt-driven I/O",
+              "c": "Direct Memory Access (DMA)",
+              "d": "All of the above"
+            },
+            "answer": "d",
+            "difficulty_level": "medium",
+            "index": 22
+          },
+          {
+            "question": "Which of the following uses DMA?",
+            "options": {
+              "a": "CPU",
+              "b": "Cache memory",
+              "c": "I/O devices",
+              "d": "Registers"
+            },
+            "answer": "c",
+            "difficulty_level": "medium",
+            "index": 23
+          },
+          {
+            "question": "Which bus is used to connect I/O devices?",
+            "options": {
+              "a": "Address bus",
+              "b": "Data bus",
+              "c": "Peripheral bus",
+              "d": "Control bus"
+            },
+            "answer": "c",
+            "difficulty_level": "medium",
+            "index": 24
+          },
+          {
+            "question": "What does the term 'polling' refer to in I/O?",
+            "options": {
+              "a": "Asking the device for readiness",
+              "b": "Interrupting the CPU",
+              "c": "Transferring data",
+              "d": "None of the above"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index": 25
+          },
+          {
+            "question": "What is the main advantage of pipelining?",
+            "options": {
+              "a": "Reduces memory usage",
+              "b": "Increases instruction throughput",
+              "c": "Increases power consumption",
+              "d": "None"
+            },
+            "answer": "b",
+            "difficulty_level": "medium",
+            "index": 26
+          },
+          {
+            "question": "Which of the following cache replacement policies replaces the least recently used (LRU) cache line?",
+            "options": {
+              "a": "FIFO",
+              "b": "Random Replacement",
+              "c": "Optimal Replacement",
+              "d": "LRU"
+            },
+            "answer": "d",
+            "difficulty_level": "hard",
+            "index": 27
+          },
+          {
+            "question": "What is speculative execution?",
+            "options": {
+              "a": "Predicting future instructions to execute them early",
+              "b": "Sequential execution of instructions",
+              "c": "Rolling back failed instructions",
+              "d": "Delayed data fetch"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index": 28
+          },
+          {
+            "question": " Which of the following techniques is used to handle memory fragmentation in an operating system?",
+            "options": {
+              "a": "Paging",
+              "b": "Segmentation",
+              "c": "File Compression",
+              "d": "Dynamic Allocation"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index": 29
+          },
+          {
+            "question": "Which architecture is used in GPUs?",
+            "options": {
+              "a": "RISC",
+              "b": "SIMD",
+              "c": "MIMD",
+              "d": "CISC"
+            },
+            "answer": "b",
+            "difficulty_level": "medium",
+            "index": 30
+          }
+      ]}
+      
+  

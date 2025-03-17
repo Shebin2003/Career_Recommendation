@@ -1,0 +1,354 @@
+{
+    "questions": [
+      {
+        "index": 1,
+        "question": "What is graphic design?",
+        "options": {
+          "a": "The art of creating visual content to communicate information or messages.",
+          "b": "The process of creating a website.",
+          "c": "A method of programming for visual elements.",
+          "d": "The design of the structure of a building."
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 2,
+        "question": "What is the role of color in graphic design?",
+        "options": {
+          "a": "Color is used to evoke emotions, create a visual hierarchy, and communicate messages.",
+          "b": "Color is only used to make designs more attractive.",
+          "c": "Color serves no real purpose in graphic design.",
+          "d": "Color is used to ensure a design looks expensive."
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 3,
+        "question": "What is the difference between RGB and CMYK color models?",
+        "options": {
+          "a": "RGB is used for print, while CMYK is used for digital designs.",
+          "b": "RGB is for digital screens, while CMYK is for print.",
+          "c": "RGB and CMYK are the same.",
+          "d": "RGB is for sketches, and CMYK is for final design."
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 4,
+        "question": "What is a vector graphic?",
+        "options": {
+          "a": "A graphic made of pixels.",
+          "b": "A graphic based on mathematical formulas that can be scaled without losing quality.",
+          "c": "A photo-editing tool.",
+          "d": "A low-resolution image format."
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 5,
+        "question": "What is the purpose of a logo in design?",
+        "options": {
+          "a": "To create a visual identity for a brand or product.",
+          "b": "To decorate a design.",
+          "c": "To convey complex messages in text form.",
+          "d": "To increase the file size of a design."
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 6,
+        "question": "What is typography in graphic design?",
+        "options": {
+          "a": "The study of fonts and how they are used to enhance readability and communicate a message.",
+          "b": "The art of drawing pictures.",
+          "c": "The process of arranging images in a layout.",
+          "d": "The use of colors in a design."
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 7,
+        "question": "What is the significance of white space (negative space) in a design?",
+        "options": {
+          "a": "It makes the design look empty.",
+          "b": "It helps to balance the design and improves readability.",
+          "c": "It makes designs cheaper to produce.",
+          "d": "It is not important in design."
+        },
+        "answer": "b",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 8,
+        "question": "What is a raster image?",
+        "options": {
+          "a": "An image made up of pixels, often used for photographs.",
+          "b": "An image that can be scaled without losing quality.",
+          "c": "A 3D model for designs.",
+          "d": "A diagrammatic image."
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 9,
+        "question": "What is the difference between JPEG and PNG file formats?",
+        "options": {
+          "a": "JPEG supports transparency, while PNG does not.",
+          "b": "JPEG is lossless, and PNG is lossy.",
+          "c": "JPEG is lossy, and PNG supports transparency and is lossless.",
+          "d": "PNG is only used for vector images."
+        },
+        "answer": "c",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 10,
+        "question": "What are the basic design principles (alignment, contrast, repetition, proximity)?",
+        "options": {
+          "a": "They are the rules that guide the arrangement of elements in a design.",
+          "b": "They are unrelated concepts in graphic design.",
+          "c": "They are focused on color schemes only.",
+          "d": "They are principles specific to typography."
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 11,
+        "question": "What is the rule of thirds in design?",
+        "options": {
+          "a": "A technique where an image is divided into three equal parts both horizontally and vertically.",
+          "b": "A technique used to arrange text in a design.",
+          "c": "A way to use three colors in a design.",
+          "d": "A method for balancing text and images."
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 12,
+        "question": "What is the difference between serif and sans-serif fonts?",
+        "options": {
+          "a": "Serif fonts have small lines at the ends of characters, while sans-serif fonts do not.",
+          "b": "Sans-serif fonts are used for print, while serif fonts are used for digital content.",
+          "c": "Serif fonts are modern, while sans-serif fonts are traditional.",
+          "d": "There is no difference between the two."
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 13,
+        "question": "What is the significance of hierarchy in graphic design?",
+        "options": {
+          "a": "It helps to organize the visual elements in a design to guide the viewer's eye.",
+          "b": "It is only important for typography.",
+          "c": "It is the technique used to align elements in a design.",
+          "d": "It defines the size of an image."
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 14,
+        "question": "How do you choose an appropriate font for a design?",
+        "options": {
+          "a": "By selecting the most decorative font available.",
+          "b": "By considering the readability, context, and tone of the design.",
+          "c": "By picking the most expensive font.",
+          "d": "By only using sans-serif fonts."
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 15,
+        "question": "What is a color palette, and why is it important in design?",
+        "options": {
+          "a": "A selection of colors used in a design to create a cohesive look.",
+          "b": "A list of fonts used in the design.",
+          "c": "The image editing tool for colors.",
+          "d": "A pattern of colors used only for backgrounds."
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 16,
+        "question": "What is a mood board, and how is it used in design projects?",
+        "options": {
+          "a": "A collage of images, colors, textures, and fonts used to convey the visual style and feel of a project.",
+          "b": "A blueprint for organizing the project timeline.",
+          "c": "A software tool for graphic design.",
+          "d": "A way to store design feedback."
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 17,
+        "question": "What is the difference between Adobe Photoshop and Adobe Illustrator?",
+        "options": {
+          "a": "Photoshop is used for vector graphics, and Illustrator is used for raster graphics.",
+          "b": "Photoshop is for image editing, while Illustrator is for creating vector-based designs.",
+          "c": "They are the same program with different names.",
+          "d": "Illustrator is for photo manipulation, and Photoshop is for designing websites."
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 18,
+        "question": "What is a vector illustration, and when is it preferred over a raster illustration?",
+        "options": {
+          "a": "A vector illustration is made of pixels and is preferred for photo-realistic images.",
+          "b": "A vector illustration is made of paths and can be scaled infinitely without losing quality, making it ideal for logos and icons.",
+          "c": "Vector illustrations are only used for background images.",
+          "d": "Raster illustrations are best for web design, while vector illustrations are best for print."
+        },
+        "answer": "b",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 19,
+        "question": "How do you ensure readability in typography?",
+        "options": {
+          "a": "By using too many fonts.",
+          "b": "By making the text too small.",
+          "c": "By choosing legible fonts, proper font size, and good contrast with the background.",
+          "d": "By using only uppercase letters."
+        },
+        "answer": "c",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 20,
+        "question": "How does color psychology play a role in graphic design?",
+        "options": {
+          "a": "Color psychology helps to select colors for a design based on their emotional and psychological effects.",
+          "b": "Color psychology is not important in graphic design.",
+          "c": "Color psychology focuses only on the brightness of the colors.",
+          "d": "Color psychology is used only for website design."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 22,
+        "question": "What is the concept of visual hierarchy, and how can it be applied effectively in graphic design?",
+        "options": {
+          "a": "Visual hierarchy is the arrangement of elements in a design based on their importance, guiding the viewer's eye in a logical flow.",
+          "b": "Visual hierarchy is a technique for selecting colors.",
+          "c": "Visual hierarchy refers to the size of images used in design.",
+          "d": "Visual hierarchy is irrelevant in design projects."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 23,
+        "question": "What is a responsive design, and why is it important for websites?",
+        "options": {
+          "a": "A responsive design ensures that a website looks good and functions properly on various devices and screen sizes.",
+          "b": "A responsive design is only used for mobile websites.",
+          "c": "A responsive design is focused only on text formatting.",
+          "d": "A responsive design is important for aesthetic purposes only."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 24,
+        "question": "What is the purpose of using grids in graphic design?",
+        "options": {
+          "a": "To align elements and create balance, consistency, and structure in the design.",
+          "b": "To make the design look more artistic.",
+          "c": "To reduce the file size of the design.",
+          "d": "To create a 3D effect in designs."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 25,
+        "question": "How does the concept of brand identity relate to graphic design?",
+        "options": {
+          "a": "Brand identity is the visual and emotional elements that define a company, including its logo, colors, fonts, and design style.",
+          "b": "Brand identity is only the logo of a company.",
+          "c": "Brand identity only relates to how a brand sounds.",
+          "d": "Brand identity is an internal document and not part of graphic design."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 26,
+        "question": "What are the key differences between print design and digital design?",
+        "options": {
+          "a": "Print design involves creating designs for physical media, whereas digital design is for web and interactive media.",
+          "b": "Print design uses only black and white, while digital design uses color.",
+          "c": "Digital design has no limitations in terms of resolution, while print design is limited by physical media.",
+          "d": "There are no key differences between the two."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 27,
+        "question": "What is the significance of kerning in typography, and how does it affect readability?",
+        "options": {
+          "a": "Kerning is the space between individual letters. Proper kerning ensures the text is legible and visually balanced.",
+          "b": "Kerning is the space between words, and it does not affect readability.",
+          "c": "Kerning only applies to headline text, not body text.",
+          "d": "Kerning refers to the color of the text in typography."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 28,
+        "question": "What is the impact of responsive design on graphic design?",
+        "options": {
+          "a": "Responsive design ensures that graphics and layout adapt seamlessly to different screen sizes, improving user experience across devices.",
+          "b": "Responsive design is unrelated to graphic design.",
+          "c": "Responsive design only affects the text in a design.",
+          "d": "Responsive design is mainly used in print-based designs."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 29,
+        "question": "How does contrast affect the effectiveness of a design?",
+        "options": {
+          "a": "Contrast helps create visual interest, define hierarchy, and ensure readability by distinguishing different elements.",
+          "b": "Contrast makes the design look complicated and difficult to read.",
+          "c": "Contrast is only important in color selection.",
+          "d": "Contrast should be avoided in graphic design."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 30,
+        "question": "What are vector illustrations, and why are they preferred in certain types of graphic design projects?",
+        "options": {
+          "a": "Vector illustrations are made of paths and can be scaled infinitely without losing quality, making them ideal for logos and icons.",
+          "b": "Vector illustrations are made of pixels and are best for photographs.",
+          "c": "Vector illustrations are used for complex photo-realistic designs.",
+          "d": "Vector illustrations are only used in web design."
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      }
+      
+    ]
+  }
+  

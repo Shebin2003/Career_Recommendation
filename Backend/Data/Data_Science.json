@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "index": 1,
+        "question": "What is data science?",
+        "options": {
+          "a": "A field that uses scientific methods, algorithms, and systems to extract knowledge from data",
+          "b": "A branch of statistics",
+          "c": "The study of programming languages",
+          "d": "A method for data storage"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 2,
+        "question": "What is the difference between data science and data analytics?",
+        "options": {
+          "a": "Data science is broader, involving data processing, while data analytics focuses on analyzing data to draw conclusions",
+          "b": "Data science is about coding, while data analytics is about reporting",
+          "c": "There is no difference",
+          "d": "Data analytics uses machine learning, but data science does not"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 3,
+        "question": "What are structured and unstructured data?",
+        "options": {
+          "a": "Structured data is organized in tables, while unstructured data lacks a predefined format",
+          "b": "Structured data is binary, and unstructured data is textual",
+          "c": "Structured data is only numeric, while unstructured data is textual",
+          "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 4,
+        "question": "What is the importance of data cleaning in data science?",
+        "options": {
+          "a": "To remove errors, inconsistencies, and irrelevant information to improve model accuracy",
+          "b": "To add noise to the dataset",
+          "c": "To store data efficiently",
+          "d": "To convert unstructured data to structured data"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 5,
+        "question": "What is the role of a data scientist?",
+        "options": {
+          "a": "To analyze and interpret complex data to help organizations make data-driven decisions",
+          "b": "To store data",
+          "c": "To write software code for data management",
+          "d": "To create marketing strategies"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 6,
+        "question": "What is a dataset in data science?",
+        "options": {
+          "a": "A collection of data, usually organized in rows and columns",
+          "b": "A software tool for analyzing data",
+          "c": "A visual representation of data",
+          "d": "A single data point"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 7,
+        "question": "What is the purpose of exploratory data analysis (EDA)?",
+        "options": {
+          "a": "To explore data and discover patterns, relationships, and anomalies",
+          "b": "To design data visualizations",
+          "c": "To develop machine learning models",
+          "d": "To clean data"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 8,
+        "question": "What is a feature in a dataset?",
+        "options": {
+          "a": "A variable or attribute that represents a characteristic of the data",
+          "b": "A record in the dataset",
+          "c": "A type of data visualization",
+          "d": "A mathematical operation performed on data"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 9,
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "options": {
+          "a": "Supervised learning uses labeled data, while unsupervised learning does not",
+          "b": "Unsupervised learning requires more data than supervised learning",
+          "c": "Supervised learning uses unstructured data, while unsupervised uses structured data",
+          "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 10,
+        "question": "What are the types of data visualizations commonly used in data science?",
+        "options": {
+          "a": "Bar charts, line charts, histograms, and scatter plots",
+          "b": "Only bar charts",
+          "c": "Data tables",
+          "d": "Only pie charts"
+        },
+        "answer": "a",
+        "difficulty_level": "easy"
+      },
+      {
+        "index": 11,
+        "question": "What is the difference between classification and regression problems in machine learning?",
+        "options": {
+          "a": "Classification predicts categorical outcomes, while regression predicts continuous values",
+          "b": "Regression predicts categorical outcomes, while classification predicts continuous values",
+          "c": "There is no difference",
+          "d": "Both are the same"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 12,
+        "question": "What is the bias-variance tradeoff in machine learning?",
+        "options": {
+          "a": "The tradeoff between model complexity and model performance, where too much bias or variance can lead to poor performance",
+          "b": "A method to reduce overfitting",
+          "c": "A technique to increase training data",
+          "d": "A decision tree algorithm"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 13,
+        "question": "What is the purpose of normalization and standardization in machine learning?",
+        "options": {
+          "a": "To scale features to a standard range or distribution to improve model performance",
+          "b": "To reduce model complexity",
+          "c": "To divide data into training and test sets",
+          "d": "To increase model complexity"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 14,
+        "question": "What are outliers, and how do you handle them in a dataset?",
+        "options": {
+          "a": "Outliers are extreme values, and they can be handled by removing or transforming them",
+          "b": "Outliers are irrelevant data, and they should be ignored",
+          "c": "Outliers are duplicate records",
+          "d": "Outliers do not affect data analysis"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 15,
+        "question": "What is cross-validation, and why is it important in machine learning?",
+        "options": {
+          "a": "A technique to evaluate a model by splitting the data into multiple subsets to ensure reliable performance",
+          "b": "A method to train models faster",
+          "c": "A tool for data preprocessing",
+          "d": "A technique for handling missing data"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 16,
+        "question": "What is a decision tree, and how does it work?",
+        "options": {
+          "a": "A tree-like model used for classification or regression, where nodes represent features, and branches represent decisions",
+          "b": "A decision-making algorithm used in business",
+          "c": "A model that selects the best feature from a dataset",
+          "d": "A tool for visualizing data"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 17,
+        "question": "What is feature engineering, and why is it important in data science?",
+        "options": {
+          "a": "The process of creating new features from raw data to improve model performance",
+          "b": "The process of cleaning data",
+          "c": "The process of selecting the best algorithm",
+          "d": "The process of visualizing data"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 18,
+        "question": "What is principal component analysis (PCA)?",
+        "options": {
+          "a": "A dimensionality reduction technique that transforms data into a set of linearly uncorrelated components",
+          "b": "A method for handling missing data",
+          "c": "A regression technique",
+          "d": "A tool for visualizing data"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 19,
+        "question": "What is a confusion matrix in classification tasks?",
+        "options": {
+          "a": "A table that shows the performance of a classification model by comparing predicted and actual outcomes",
+          "b": "A tool for handling outliers",
+          "c": "A data cleaning method",
+          "d": "A technique for data normalization"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 20,
+        "question": "What is the difference between bagging and boosting algorithms?",
+        "options": {
+          "a": "Bagging reduces variance by training multiple models independently, while boosting reduces bias by sequentially correcting model errors",
+          "b": "Bagging is faster than boosting",
+          "c": "Boosting is only used for classification tasks",
+          "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "medium"
+      },
+      {
+        "index": 21,
+        "question": "What is deep learning, and how does it differ from traditional machine learning?",
+        "options": {
+          "a": "Deep learning uses neural networks with multiple layers to learn from large amounts of data, while traditional machine learning uses simpler algorithms",
+          "b": "Deep learning requires less data than traditional machine learning",
+          "c": "Traditional machine learning uses neural networks, while deep learning does not",
+          "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 22,
+        "question": "What is the curse of dimensionality, and how does it affect machine learning models?",
+        "options": {
+          "a": "It refers to the challenges posed by high-dimensional data, which can lead to overfitting and poor model performance",
+          "b": "It refers to the limitations of low-dimensional data",
+          "c": "It refers to the bias introduced by training models on high-dimensional data",
+          "d": "It is a method for feature engineering"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 23,
+        "question": "What is the purpose of regularization techniques like L1 and L2 in machine learning?",
+        "options": {
+          "a": "To prevent overfitting by penalizing large coefficients in the model",
+          "b": "To improve model accuracy by adding noise",
+          "c": "To reduce data dimensionality",
+          "d": "To increase the complexity of the model"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 24,
+        "question": "How does a random forest algorithm work, and what are its advantages?",
+        "options": {
+          "a": "Random forest is an ensemble method that creates multiple decision trees and averages their results to improve accuracy and reduce overfitting",
+          "b": "Random forest uses a single decision tree",
+          "c": "Random forest is a regression technique",
+          "d": "Random forest is not used in machine learning"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 25,
+        "question": "What is gradient descent, and how is it used in training machine learning models?",
+        "options": {
+          "a": "A method for optimizing a model's parameters by iteratively adjusting them to minimize the error function",
+          "b": "A method for increasing model complexity",
+          "c": "A technique for normalizing data",
+          "d": "A technique for feature selection"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 26,
+        "question": "What is the difference between a convolutional neural network (CNN) and a recurrent neural network (RNN)?",
+        "options": {
+          "a": "CNNs are used for image processing, while RNNs are used for sequence data like time series or text",
+          "b": "CNNs are used for regression, while RNNs are used for classification",
+          "c": "CNNs require less data than RNNs",
+          "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 27,
+        "question": "What is the ROC curve, and how do you interpret it in a classification model?",
+        "options": {
+          "a": "The ROC curve shows the tradeoff between true positive rate and false positive rate, helping to evaluate the performance of a classification model",
+          "b": "The ROC curve shows the relationship between input features and output predictions",
+          "c": "The ROC curve is used for regression models",
+          "d": "The ROC curve is not used in machine learning"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 28,
+        "question": "What is a generative adversarial network (GAN), and how does it work?",
+        "options": {
+          "a": "A GAN consists of two neural networks, a generator and a discriminator, that work against each other to generate realistic data",
+          "b": "A GAN is a technique for regression tasks",
+          "c": "A GAN is a decision tree algorithm",
+          "d": "A GAN is used for clustering data"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 29,
+        "question": "What is the difference between a generative model and a discriminative model?",
+        "options": {
+          "a": "A generative model models the distribution of data, while a discriminative model models the decision boundary between classes",
+          "b": "A generative model only works with images, while a discriminative model works with text",
+          "c": "Generative models are only used for clustering tasks",
+          "d": "Discriminative models are slower than generative models"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      },
+      {
+        "index": 30,
+        "question": "What is reinforcement learning, and how is it different from supervised and unsupervised learning?",
+        "options": {
+          "a": "Reinforcement learning involves an agent learning to make decisions through trial and error, while supervised and unsupervised learning involve labeled or unlabeled data",
+          "b": "Reinforcement learning is the same as supervised learning",
+          "c": "Reinforcement learning does not require a reward signal",
+          "d": "Reinforcement learning only works with unstructured data"
+        },
+        "answer": "a",
+        "difficulty_level": "hard"
+      }
+    ]
+  }
+  

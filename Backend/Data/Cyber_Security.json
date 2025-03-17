@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "question": "What does VPN stand for?",
+        "options": {
+          "a": "Virtual Private Network",
+          "b": "Verified Private Network",
+          "c": "Virtual Public Network",
+          "d": "Verified Protocol Network"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index": 1
+      },
+      {
+        "question": "Which of the following is a strong password?",
+        "options": {
+          "a": "password123",
+          "b": "123456789",
+          "c": "P@ssw0rd!#123",
+          "d": "admin"
+        },
+        "answer": "c",
+        "difficulty_level": "easy",
+        "index": 2
+      },
+      {
+        "question": "What is two-factor authentication (2FA)?",
+        "options": {
+          "a": "Password + security question",
+          "b": "Password + fingerprint scan",
+          "c": "Password + SMS code",
+          "d": "Password + email"
+        },
+        "answer": "c",
+        "difficulty_level": "easy",
+        "index": 3
+      },
+      {
+        "question": "What is the purpose of a firewall?",
+        "options": {
+          "a": "To block malicious software",
+          "b": "To protect against unauthorized access",
+          "c": "To delete unwanted files",
+          "d": "To increase network speed"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 4
+      },
+      {
+        "question": "What does SSL stand for?",
+        "options": {
+          "a": "Secure System Layer",
+          "b": "Secure Socket Layer",
+          "c": "Secure Security Layer",
+          "d": "System Security Layer"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 5
+      },
+      {
+        "question": "Which of the following is a type of malware?",
+        "options": {
+          "a": "Antivirus",
+          "b": "Ransomware",
+          "c": "Firewall",
+          "d": "VPN"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 6
+      },
+      {
+        "question": "Which of the following is the most common method of attacking a website?",
+        "options": {
+          "a": "Phishing",
+          "b": "SQL Injection",
+          "c": "Password cracking",
+          "d": "Denial of Service"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 7
+      },
+      {
+        "question": "What is encryption?",
+        "options": {
+          "a": "Protecting data with a password",
+          "b": "Scrambling data to make it unreadable",
+          "c": "Backing up data",
+          "d": "None of the above"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 8
+      },
+      {
+        "question": "What is a phishing attack?",
+        "options": {
+          "a": "Attacker sends fraudulent emails to gather sensitive information",
+          "b": "Attacker overloads a server with requests",
+          "c": "Attacker exploits vulnerabilities in a system",
+          "d": "Attacker captures network traffic"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index": 9
+      },
+      {
+        "question": "What does 'http://' in a URL indicate?",
+        "options": {
+          "a": "The website is encrypted",
+          "b": "The website is non-secure",
+          "c": "The website is authenticated",
+          "d": "The website is using SSL"
+        },
+        "answer": "b",
+        "difficulty_level": "easy",
+        "index": 10
+      },
+      {
+        "question": "What is a DDoS attack?",
+        "options": {
+          "a": "Distributed Denial of Service",
+          "b": "Direct Denial of Service",
+          "c": "Data Download Service",
+          "d": "Data Distribution Service"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 11
+      },
+      {
+        "question": "What does the CIA triad stand for?",
+        "options": {
+          "a": "Confidentiality, Integrity, Availability",
+          "b": "Cybersecurity, Integrity, Authentication",
+          "c": "Cyber, Internet, Application",
+          "d": "Communication, Internet, Authentication"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 12
+      },
+      {
+        "question": "What is a zero-day vulnerability?",
+        "options": {
+          "a": "A vulnerability with no fix available",
+          "b": "A vulnerability that is patched immediately",
+          "c": "A vulnerability found after a cyber attack",
+          "d": "A vulnerability that doesn’t exist"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 13
+      },
+      {
+        "question": "What is social engineering in cybersecurity?",
+        "options": {
+          "a": "Manipulating people to gain unauthorized access to systems",
+          "b": "Using social media to promote a product",
+          "c": "Designing a system for high security",
+          "d": "Encrypting social media traffic"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 14
+      },
+      {
+        "question": "Which of the following is an example of a strong encryption algorithm?",
+        "options": {
+          "a": "MD5",
+          "b": "AES",
+          "c": "DES",
+          "d": "SHA1"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 15
+      },
+      {
+        "question": "What is a botnet?",
+        "options": {
+          "a": "A type of malware",
+          "b": "A network of infected devices used to launch attacks",
+          "c": "A security protocol",
+          "d": "A type of antivirus software"
+        },
+        "answer": "b",
+        "difficulty_level": "medium",
+        "index": 16
+      },
+      {
+        "question": "Which of the following is used for secure communication over the internet?",
+        "options": {
+          "a": "SSL/TLS",
+          "b": "FTP",
+          "c": "SMTP",
+          "d": "POP3"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 17
+      },
+      {
+        "question": "Which of the following is the best method to protect against SQL Injection attacks?",
+        "options": {
+          "a": "Use parameterized queries",
+          "b": "Encrypt the database",
+          "c": "Use a strong password",
+          "d": "Disable unnecessary ports"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 18
+      },
+      {
+        "question": "What is a vulnerability scan?",
+        "options": {
+          "a": "Scanning the network for active devices",
+          "b": "Scanning the software for performance issues",
+          "c": "Identifying weaknesses in the system that may be exploited",
+          "d": "Scanning emails for viruses"
+        },
+        "answer": "c",
+        "difficulty_level": "medium",
+        "index": 19
+      },
+      {
+        "question": "Which type of malware disguises itself as legitimate software?",
+        "options": {
+          "a": "Trojan horse",
+          "b": "Ransomware",
+          "c": "Worm",
+          "d": "Adware"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index": 20
+      },
+      {
+        "question": "What is a man-in-the-middle (MITM) attack?",
+        "options": {
+            "a": "Attacker intercepts and alters communication between two parties",
+            "b": "Attacker exploits a vulnerability in the software",
+            "c": "Attacker targets the server infrastructure",
+            "d": "Attacker floods the network with traffic"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 21
+    },
+    {
+        "question": "What is multi-factor authentication (MFA)?",
+        "options": {
+            "a": "Using a password plus one additional verification method",
+            "b": "Using a password alone",
+            "c": "Using multiple passwords for authentication",
+            "d": "Using a single-time password"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 22
+    },
+    {
+        "question": "What does 'salting' refer to in password security?",
+        "options": {
+            "a": "Adding special characters to passwords",
+            "b": "Encrypting the password with a unique value",
+            "c": "Adding a random string to passwords before hashing",
+            "d": "Using a combination of passwords and PINs"
+        },
+        "answer": "c",
+        "difficulty_level": "hard",
+        "index": 23
+    },
+    {
+        "question": "What is the purpose of the Security Assertion Markup Language (SAML)?",
+        "options": {
+            "a": "To provide single sign-on (SSO) capabilities",
+            "b": "To encrypt data over the internet",
+            "c": "To verify the integrity of files",
+            "d": "To provide network security"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 24
+    },
+    {
+        "question": "What is the primary purpose of the AES (Advanced Encryption Standard)?",
+        "options": {
+            "a": "To secure email communications",
+            "b": "To encrypt data for confidentiality",
+            "c": "To verify file integrity",
+            "d": "To establish network protocols"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index": 25
+    },
+    {
+        "question": "What is the principle of least privilege?",
+        "options": {
+            "a": "Giving users the highest possible permissions",
+            "b": "Limiting users to only the permissions they need",
+            "c": "Giving all users the same level of access",
+            "d": "Allowing users to escalate their privileges"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index": 26
+    },
+    {
+        "question": "What is a rootkit?",
+        "options": {
+            "a": "A type of malware designed to gain administrator access",
+            "b": "A tool used for penetration testing",
+            "c": "A network security protocol",
+            "d": "A firewall configuration"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 27
+    },
+    {
+        "question": "What is the main objective of the NIST Cybersecurity Framework?",
+        "options": {
+            "a": "To provide guidelines for financial security",
+            "b": "To improve data access controls",
+            "c": "To provide a set of standards for managing cybersecurity risks",
+            "d": "To offer antivirus solutions"
+        },
+        "answer": "c",
+        "difficulty_level": "hard",
+        "index": 28
+    },
+    {
+        "question": "What is the purpose of an Intrusion Detection System (IDS)?",
+        "options": {
+            "a": "To protect against ransomware attacks",
+            "b": "To detect and alert on malicious activity in a network",
+            "c": "To filter web traffic",
+            "d": "To encrypt data"
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index": 29
+    },
+    {
+        "question": "What is the difference between symmetric and asymmetric encryption?",
+        "options": {
+            "a": "Symmetric encryption uses the same key for encryption and decryption, while asymmetric uses a pair of keys",
+            "b": "Symmetric encryption is more secure than asymmetric encryption",
+            "c": "Asymmetric encryption is faster than symmetric encryption",
+            "d": "There is no difference"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index": 30
+    }
+    ]
+  }
+  

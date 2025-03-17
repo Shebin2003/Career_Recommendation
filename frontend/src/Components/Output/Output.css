@@ -1,0 +1,45 @@
+.output{
+  background-color: #D7C4F2 ;
+  height: 100vh;
+}
+
+
+.output-container {
+    width: 70%;
+    margin: auto;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    padding-top: 150px;
+    background-color: #D7C4F2 ;
+  }
+  
+.heading {
+  font-size: 32px;
+  color: #4B0082;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+    margin-bottom: 15px;
+  }
+  
+  .recommendation-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recommendation-item {
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    transition: transform 0.3s ease-in-out;
+}
+  
+.recommendation-item:hover {
+  transform: scale(1.05);
+  box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.15);
+}
+  

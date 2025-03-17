@@ -1,0 +1,364 @@
+{
+    "questions": [
+        {
+            "question": "What is the difference between a compiled and an interpreted language?",
+            "options": {
+              "a": "Compiled languages are converted to machine code, while interpreted languages are executed line by line",
+              "b": "Compiled languages are executed line by line, while interpreted languages are converted to machine code",
+              "c": "Compiled languages are used for system programming, while interpreted languages are used for web development",
+              "d": "Compiled languages require more memory than interpreted languages"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":1
+          },
+          {
+            "question": "What is a variable in programming?",
+            "options": {
+              "a": "A data type that stores a fixed value",
+              "b": "A function that stores a value",
+              "c": "A memory location to store a value",
+              "d": "A loop that runs a program"
+            },
+            "answer": "c",
+            "difficulty_level": "easy",
+            "index":2
+          },
+          {
+            "question": "What are the four basic data types in most programming languages?",
+            "options": {
+              "a": "Integer, Float, Char, Boolean",
+              "b": "String, Integer, List, Dictionary",
+              "c": "Integer, Character, Boolean, String",
+              "d": "Array, Function, Boolean, Char"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":3
+          },
+          {
+            "question": "What is an array?",
+            "options": {
+              "a": "A collection of items of the same type stored in a single variable",
+              "b": "A function that stores a value",
+              "c": "A type of variable that can hold only one value",
+              "d": "A type of loop for iterating over elements"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":4
+          },
+          {
+            "question": "What is a function in programming?",
+            "options": {
+              "a": "A block of code that executes when called",
+              "b": "A type of variable that stores a single value",
+              "c": "A memory location for storing data",
+              "d": "A data structure for organizing values"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":5
+          },
+          {
+            "question": "What is a loop?",
+            "options": {
+              "a": "A control structure that repeats a block of code",
+              "b": "A method for calling a function",
+              "c": "A type of variable",
+              "d": "A syntax for handling errors"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":6
+          },
+          {
+            "question": "What is the difference between a class and an object?",
+            "options": {
+              "a": "A class is a blueprint, and an object is an instance of a class",
+              "b": "A class stores data, and an object executes functions",
+              "c": "A class is a type of variable, and an object is a data structure",
+              "d": "A class is used in procedural programming, and an object is used in OOP"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":7
+          },
+          {
+            "question": "What is the difference between a stack and a queue?",
+            "options": {
+              "a": "A stack follows the LIFO (Last In, First Out) order, while a queue follows the FIFO (First In, First Out) order",
+              "b": "A stack follows FIFO, while a queue follows LIFO",
+              "c": "A stack stores values, while a queue executes functions",
+              "d": "A stack stores data types, while a queue stores functions"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":8
+          },
+          {
+            "question": "What is the purpose of the if statement in programming?",
+            "options": {
+              "a": "To check whether a condition is true or false and execute code accordingly",
+              "b": "To define a function",
+              "c": "To store a value in a variable",
+              "d": "To create loops"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":9
+          },
+          {
+            "question": "What is an IDE (Integrated Development Environment)?",
+            "options": {
+              "a": "A tool that combines coding, debugging, and running applications in one interface",
+              "b": "A type of programming language",
+              "c": "A tool for managing version control",
+              "d": "A type of database"
+            },
+            "answer": "a",
+            "difficulty_level": "easy",
+            "index":10
+          },
+          {
+            "question": "What is the difference between procedural and object-oriented programming?",
+            "options": {
+              "a": "Procedural programming focuses on functions, while object-oriented programming focuses on objects",
+              "b": "Procedural programming stores data in objects, while object-oriented programming stores data in functions",
+              "c": "Procedural programming is faster, while object-oriented programming is more efficient",
+              "d": "Procedural programming supports inheritance, while object-oriented programming does not"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":11
+          },
+          {
+            "question": "What is inheritance in object-oriented programming?",
+            "options": {
+              "a": "A mechanism that allows a new class to inherit properties and behaviors from an existing class",
+              "b": "A type of method for handling errors",
+              "c": "A feature that defines private variables",
+              "d": "A type of loop in OOP"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":12
+          },
+          {
+            "question": "What is a constructor in object-oriented programming?",
+            "options": {
+              "a": "A special method used to initialize objects",
+              "b": "A method used for error handling",
+              "c": "A type of loop in OOP",
+              "d": "A method for calling functions"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":13
+          },
+          {
+            "question": "What is the purpose of exception handling in programming?",
+            "options": {
+              "a": "To manage errors and prevent program crashes",
+              "b": "To store error messages in variables",
+              "c": "To create loops for repetitive tasks",
+              "d": "To define new variables in a program"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":14
+          },
+          {
+            "question": "What is polymorphism in OOP?",
+            "options": {
+              "a": "The ability to use a single function or operator to work with different data types",
+              "b": "The process of hiding data in a class",
+              "c": "The ability to inherit properties from multiple classes",
+              "d": "The process of defining new classes in a program"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":15
+          },
+          {
+            "question": "What is a software design pattern?",
+            "options": {
+              "a": "A reusable solution to a commonly occurring problem in software design",
+              "b": "A specific programming language used for application development",
+              "c": "A set of instructions for defining variables",
+              "d": "A method for writing code in an optimized way"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":16
+          },
+          {
+            "question": "What is the purpose of version control systems like Git?",
+            "options": {
+              "a": "To track changes in code and collaborate with other developers",
+              "b": "To compile code and convert it into machine language",
+              "c": "To optimize memory usage during runtime",
+              "d": "To execute functions in a program"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":17
+          },
+          {
+            "question": "What is the difference between synchronous and asynchronous programming?",
+            "options": {
+              "a": "Synchronous programming executes tasks sequentially, while asynchronous programming allows tasks to run concurrently",
+              "b": "Synchronous programming runs on a single thread, while asynchronous programming uses multiple threads",
+              "c": "Synchronous programming is faster than asynchronous programming",
+              "d": "Asynchronous programming executes tasks one at a time"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":18
+          },
+          {
+            "question": "What is recursion in programming?",
+            "options": {
+              "a": "A function that calls itself in order to solve smaller instances of the same problem",
+              "b": "A method for managing memory allocation",
+              "c": "A technique for handling errors in code",
+              "d": "A loop that executes multiple times"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":19
+          },
+          {
+            "question": "What is an interface in object-oriented programming?",
+            "options": {
+              "a": "A contract that defines methods that a class must implement",
+              "b": "A function that processes user input",
+              "c": "A variable used to store a class reference",
+              "d": "A tool for managing code execution"
+            },
+            "answer": "a",
+            "difficulty_level": "medium",
+            "index":20
+          },
+          {
+            "question": "What is the difference between deep copy and shallow copy in programming?",
+            "options": {
+              "a": "A deep copy copies the object and its nested objects, while a shallow copy only copies the reference",
+              "b": "A deep copy only copies primitive values, while a shallow copy copies everything",
+              "c": "A deep copy is faster than a shallow copy",
+              "d": "A shallow copy maintains references, while a deep copy does not"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":21
+          },
+          {
+            "question": "What is a memory leak and how do you prevent it?",
+            "options": {
+              "a": "A memory leak occurs when the program does not release unused memory; it can be prevented by managing memory manually",
+              "b": "A memory leak occurs when too much memory is allocated for a program; it can be fixed by optimizing code",
+              "c": "A memory leak is a bug caused by unnecessary variable declarations; it can be prevented by cleaning code regularly",
+              "d": "A memory leak is a type of exception; it can be fixed by handling errors"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":22
+          },
+          {
+            "question": "What is multithreading in software development?",
+            "options": {
+              "a": "The ability to execute multiple threads concurrently, improving program performance",
+              "b": "The process of managing multiple processes running on different servers",
+              "c": "The process of organizing code into functions for better readability",
+              "d": "The technique of optimizing memory usage in a program"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":23
+          },
+          {
+            "question": "What is the difference between Agile and Waterfall development methodologies?",
+            "options": {
+              "a": "Agile is iterative and flexible, while Waterfall is a linear and sequential process",
+              "b": "Waterfall is flexible, while Agile is rigid and sequential",
+              "c": "Agile is used for large projects, while Waterfall is for smaller projects",
+              "d": "Waterfall is focused on documentation, while Agile emphasizes customer collaboration"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":24
+          },
+          {
+            "question": "What is the Singleton design pattern?",
+            "options": {
+              "a": "A design pattern that restricts the instantiation of a class to one object",
+              "b": "A design pattern that creates multiple instances of a class",
+              "c": "A pattern that provides a way to construct complex objects",
+              "d": "A pattern that allows for dynamic creation of classes"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":25
+          },
+          {
+            "question": "What is dependency injection and why is it used?",
+            "options": {
+              "a": "A technique where objects are passed their dependencies rather than creating them internally; it promotes loose coupling",
+              "b": "A technique for initializing a class with default values",
+              "c": "A method for accessing global variables across different modules",
+              "d": "A process of managing a class's lifecycle"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":26
+          },
+          {
+            "question": "What is the purpose of the SOLID principles in object-oriented design?",
+            "options": {
+              "a": "SOLID principles are guidelines for creating maintainable and flexible software",
+              "b": "SOLID principles are used to organize data in databases",
+              "c": "SOLID principles help with optimizing memory usage in programs",
+              "d": "SOLID principles guide the process of creating modular functions"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":27
+          },
+          {
+            "question": "What is the difference between a thread and a process?",
+            "options": {
+              "a": "A thread is a lightweight unit of execution within a process, while a process is an independent unit of execution",
+              "b": "A thread is a group of processes, while a process is a single task",
+              "c": "A thread executes a program, while a process is used for debugging",
+              "d": "A thread is a type of memory allocation, while a process is used for file management"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":28
+          },
+          {
+            "question": "What is the CAP theorem in distributed systems?",
+            "options": {
+              "a": "The theorem states that a distributed system can provide only two out of the three guarantees: Consistency, Availability, and Partition tolerance",
+              "b": "The theorem states that a distributed system can provide all three guarantees: Consistency, Availability, and Partition tolerance",
+              "c": "The theorem states that a system is always consistent if the data is stored in partitions",
+              "d": "The theorem applies to multi-threaded systems only"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":29
+          },
+          {
+            "question": "What is the difference between microservices and monolithic architecture?",
+            "options": {
+              "a": "Microservices break a system into smaller, independent services, while monolithic architecture uses a single, large codebase for all functionalities",
+              "b": "Microservices are faster than monolithic architecture",
+              "c": "Monolithic architecture is used for large systems, while microservices are for smaller systems",
+              "d": "Microservices use more memory than monolithic architecture"
+            },
+            "answer": "a",
+            "difficulty_level": "hard",
+            "index":30
+          }
+    ]
+}

@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "question": "What is the first step you should take when troubleshooting a computer that won't turn on?",
+        "options": {
+          "a": "Check if the power cable is plugged in and the power button is functioning.",
+          "b": "Restart the computer.",
+          "c": "Check if the hard drive is running.",
+          "d": "Change the computer's battery."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":1
+      },
+      {
+        "question": "How can you diagnose if a computer is having a hardware issue?",
+        "options": {
+          "a": "Listen for unusual sounds, check for error lights, or run diagnostic tools.",
+          "b": "Reboot the system multiple times.",
+          "c": "Replace the software immediately.",
+          "d": "Turn off all peripherals."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":2
+      },
+      {
+        "question": "What should you do if a program on your computer is not responding?",
+        "options": {
+          "a": "Try to close the program through Task Manager (Windows) or Activity Monitor (Mac).",
+          "b": "Force restart the computer without saving your work.",
+          "c": "Reinstall the operating system.",
+          "d": "Ignore the issue and continue working."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":3
+      },
+      {
+        "question": "How do you troubleshoot a slow internet connection?",
+        "options": {
+          "a": "Check for issues with the router, restart the modem, or contact your ISP.",
+          "b": "Reboot the computer.",
+          "c": "Check for software updates.",
+          "d": "Change the wallpaper to a static image."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":4
+      },
+      {
+        "question": "What is the first thing you should check when troubleshooting a printer that won't print?",
+        "options": {
+          "a": "Ensure the printer is turned on and connected to the computer or network.",
+          "b": "Change the printer's ink cartridges.",
+          "c": "Replace the printer's paper.",
+          "d": "Update the printer drivers."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":5
+      },
+      {
+        "question": "How do you identify if a software issue is caused by a recent update?",
+        "options": {
+          "a": "Check if the issue started after the update and look for related error messages.",
+          "b": "Reinstall the software.",
+          "c": "Run a system scan for viruses.",
+          "d": "Delete the recent update."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":6
+      },
+      {
+        "question": "What should you do if your computer is making strange noises?",
+        "options": {
+          "a": "Check for loose hardware components, such as a fan or hard drive.",
+          "b": "Ignore the sound and continue working.",
+          "c": "Turn off the computer and restart it.",
+          "d": "Update the operating system."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":7
+      },
+      {
+        "question": "What is the best way to troubleshoot a slow website?",
+        "options": {
+          "a": "Check the website's loading time using online tools and troubleshoot server or network issues.",
+          "b": "Increase your internet speed.",
+          "c": "Clear your browser cache.",
+          "d": "Close all other applications on your computer."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":8
+      },
+      {
+        "question": "How do you troubleshoot a device not connecting to Wi-Fi?",
+        "options": {
+          "a": "Check if the Wi-Fi is enabled on the device, reboot the router, and verify the correct password.",
+          "b": "Reinstall the Wi-Fi drivers.",
+          "c": "Turn off the firewall.",
+          "d": "Upgrade the operating system."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":9
+      },
+      {
+        "question": "What should you do when your computer is running low on storage?",
+        "options": {
+          "a": "Delete unnecessary files, move data to an external drive, or increase storage capacity.",
+          "b": "Restart the computer.",
+          "c": "Install antivirus software.",
+          "d": "Run a system restore."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":10
+      },
+      {
+        "question": "What is a common solution for fixing a frozen application on a mobile device?",
+        "options": {
+          "a": "Force close the app and reopen it.",
+          "b": "Restart the device.",
+          "c": "Reinstall the app.",
+          "d": "Update the device's operating system."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":11
+      },
+      {
+        "question": "How do you diagnose a problem with your computer's display?",
+        "options": {
+          "a": "Check the cable connections, try another monitor, and update graphics drivers.",
+          "b": "Reinstall the operating system.",
+          "c": "Increase the screen brightness.",
+          "d": "Change the desktop wallpaper."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":12
+      },
+      {
+        "question": "What should you do if your phone is not charging?",
+        "options": {
+          "a": "Check the charging cable, the charging port, and the power source.",
+          "b": "Reboot the phone.",
+          "c": "Delete unnecessary apps.",
+          "d": "Change the phone's screen protector."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":13
+      },
+      {
+        "question": "How do you troubleshoot an issue where a computer's USB ports are not working?",
+        "options": {
+          "a": "Check for loose connections, restart the computer, and update USB drivers.",
+          "b": "Reinstall the operating system.",
+          "c": "Disable antivirus software.",
+          "d": "Replace the computer's hard drive."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":14
+      },
+      {
+        "question": "What could be the cause of a computer constantly rebooting?",
+        "options": {
+          "a": "Faulty hardware, corrupted software, or issues with the operating system.",
+          "b": "A full hard drive.",
+          "c": "Too many open applications.",
+          "d": "Overheating components."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":15
+      },
+      {
+        "question": "How can you troubleshoot a slow computer?",
+        "options": {
+          "a": "Check for resource hogging applications, update software, and run a disk cleanup.",
+          "b": "Upgrade the computer's RAM.",
+          "c": "Reinstall the operating system.",
+          "d": "Disconnect all peripheral devices."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":16
+      },
+      {
+        "question": "What is the first step to take when troubleshooting network connectivity issues?",
+        "options": {
+          "a": "Check the physical connections, such as cables and router status.",
+          "b": "Update the network drivers.",
+          "c": "Change the DNS settings.",
+          "d": "Reset the modem."
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":17
+      },
+      {
+        "question": "What should you do when your computer's screen is blurry?",
+        "options": {
+          "a": "Check the screen resolution settings, update the graphics drivers, or inspect the monitor for damage.",
+          "b": "Adjust the screen brightness.",
+          "c": "Turn off all background applications.",
+          "d": "Reinstall the operating system."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":18
+      },
+      {
+        "question": "How do you troubleshoot a website that is not loading?",
+        "options": {
+          "a": "Check your internet connection, clear the browser cache, or verify the website's server status.",
+          "b": "Change the browser settings.",
+          "c": "Restart the computer.",
+          "d": "Check for hardware issues."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":19
+      },
+      {
+        "question": "What is the best way to troubleshoot a device with a poor camera quality?",
+        "options": {
+          "a": "Check the camera lens for obstructions, adjust camera settings, or update the camera drivers.",
+          "b": "Increase the device's brightness.",
+          "c": "Reinstall the camera application.",
+          "d": "Restart the phone."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":20
+      },
+      {
+        "question": "What is the best method to fix a device that is overheating?",
+        "options": {
+          "a": "Ensure proper ventilation, clean the cooling fan, and close unnecessary applications.",
+          "b": "Increase the screen brightness.",
+          "c": "Change the device's wallpaper.",
+          "d": "Remove external accessories."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":21
+      },
+      {
+        "question": "How do you troubleshoot an issue with a software installation?",
+        "options": {
+          "a": "Check system requirements, clear disk space, and disable antivirus software temporarily.",
+          "b": "Reinstall the operating system.",
+          "c": "Change the system language settings.",
+          "d": "Close all running applications."
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":22
+      },
+      {
+        "question": "What should you do if your computer's motherboard is suspected to be faulty?",
+        "options": {
+          "a": "Replace the motherboard immediately.",
+          "b": "Check for error codes or beeping sounds from the motherboard.",
+          "c": "Reinstall the operating system.",
+          "d": "Change the power supply."
+        },
+        "answer": "b",
+        "difficulty_level": "hard",
+        "index":23
+      },
+      {
+        "question": "How do you troubleshoot a server that is frequently crashing without any clear error message?",
+        "options": {
+          "a": "Reboot the server and check the system logs for any warning signs.",
+          "b": "Reinstall the server's operating system.",
+          "c": "Upgrade the server's hardware.",
+          "d": "Contact the server hosting provider."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":24
+      },
+      {
+        "question": "What is the most likely cause of intermittent Wi-Fi connectivity issues on multiple devices in a network?",
+        "options": {
+          "a": "Faulty Wi-Fi router or access point.",
+          "b": "Too many connected devices.",
+          "c": "Software bugs on the devices.",
+          "d": "Incorrect router configuration."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":25
+      },
+      {
+        "question": "What steps should you take if a network switch is not distributing IP addresses properly?",
+        "options": {
+          "a": "Check the DHCP settings and ensure the switch is properly connected to the network.",
+          "b": "Restart the switch and check for firmware updates.",
+          "c": "Reconfigure the router to handle the DHCP process.",
+          "d": "Replace the switch with a new one."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":26
+      },
+      {
+        "question": "How would you diagnose a situation where your computer can connect to the internet, but a specific website is not loading?",
+        "options": {
+          "a": "Check the website's server status and troubleshoot DNS issues.",
+          "b": "Clear the browser cache and reset network settings.",
+          "c": "Try accessing the website using a different browser.",
+          "d": "Reboot the computer."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":27
+      },
+      {
+        "question": "What is the first step when troubleshooting an intermittent power supply failure in a computer?",
+        "options": {
+          "a": "Test the power supply using a multimeter or power supply tester.",
+          "b": "Reboot the computer and check for any error messages.",
+          "c": "Replace the power cables.",
+          "d": "Reinstall the operating system."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":28
+      },
+      {
+        "question": "What do you do if your computer is suddenly running extremely slow and no specific program is using a lot of resources?",
+        "options": {
+          "a": "Check for malware or background processes consuming resources.",
+          "b": "Reinstall the operating system.",
+          "c": "Upgrade the hardware components.",
+          "d": "Disable the computer's antivirus software."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":29
+      },
+      {
+        "question": "How do you troubleshoot a situation where a printer prints fine but fails to print from specific computers in a network?",
+        "options": {
+          "a": "Check the printer's network settings, ensure the driver is correctly installed on the affected computers, and verify the network connection.",
+          "b": "Replace the printer's ink cartridges.",
+          "c": "Reinstall the printer on all computers in the network.",
+          "d": "Check if the printer is set as the default on the affected computers."
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":30
+      }
+    ]
+  }
+  

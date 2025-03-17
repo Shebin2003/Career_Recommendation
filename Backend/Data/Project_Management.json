@@ -1,0 +1,365 @@
+{
+    "questions": [
+      {
+        "question": "What is project management?",
+        "options": {
+          "a": "The process of planning, executing, and closing projects efficiently",
+          "b": "The process of managing a company's finances",
+          "c": "The method of designing software projects",
+          "d": "The process of managing a team of developers"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":1
+      },
+      {
+        "question": "What is a project?",
+        "options": {
+          "a": "A temporary effort to create a unique product or service",
+          "b": "A continuous operation with no specific endpoint",
+          "c": "A standard business process",
+          "d": "A part of routine business operations"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":2
+      },
+      {
+        "question": "What is the role of a project manager?",
+        "options": {
+          "a": "To oversee and manage the project from initiation to completion",
+          "b": "To design the software or product being developed",
+          "c": "To handle financial tasks exclusively",
+          "d": "To perform technical tasks only"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":3
+      },
+      {
+        "question": "What is a Gantt chart?",
+        "options": {
+          "a": "A tool used for scheduling and tracking project progress",
+          "b": "A chart showing project team roles and responsibilities",
+          "c": "A type of risk analysis technique",
+          "d": "A document outlining the project scope"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":4
+      },
+      {
+        "question": "What is a work breakdown structure (WBS)?",
+        "options": {
+          "a": "A hierarchical decomposition of the project into smaller, manageable tasks",
+          "b": "A list of all project deliverables",
+          "c": "A detailed risk management plan",
+          "d": "A tool for resource leveling"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":5
+      },
+      {
+        "question": "What is the critical path method (CPM)?",
+        "options": {
+          "a": "A technique for scheduling project tasks and determining the minimum project duration",
+          "b": "A method of risk assessment in projects",
+          "c": "A tool for assigning tasks to team members",
+          "d": "A technique used for financial budgeting in projects"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":6
+      },
+      {
+        "question": "What is the difference between a project and a program?",
+        "options": {
+          "a": "A project is a temporary endeavor, while a program is a collection of related projects",
+          "b": "A project involves only technical tasks, while a program involves management tasks",
+          "c": "A program is less structured than a project",
+          "d": "A project has a longer duration than a program"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":7
+      },
+      {
+        "question": "What are project deliverables?",
+        "options": {
+          "a": "Specific, measurable outputs that are produced during the project",
+          "b": "Tasks that are performed by the project manager",
+          "c": "The estimated cost of the project",
+          "d": "The key risks associated with the project"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":8
+      },
+      {
+        "question": "What is scope management in project management?",
+        "options": {
+          "a": "The process of defining and controlling what is included and excluded in the project",
+          "b": "The process of assigning tasks to team members",
+          "c": "The process of managing project finances",
+          "d": "The process of tracking project milestones"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":9
+      },
+      {
+        "question": "What is the purpose of a project kickoff meeting?",
+        "options": {
+          "a": "To set expectations, clarify project goals, and align the team on objectives",
+          "b": "To discuss the budget and allocate resources",
+          "c": "To evaluate project risks and create a mitigation plan",
+          "d": "To provide technical training to team members"
+        },
+        "answer": "a",
+        "difficulty_level": "easy",
+        "index":10
+      },
+      {
+        "question": "What is the triple constraint in project management?",
+        "options": {
+          "a": "The balance between time, cost, and scope",
+          "b": "The balance between risk, quality, and resources",
+          "c": "The balance between project deliverables and deadlines",
+          "d": "The balance between project stakeholders' interests"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":11
+      },
+      {
+        "question": "What is risk management in project management?",
+        "options": {
+          "a": "The process of identifying, analyzing, and responding to project risks",
+          "b": "The process of controlling project scope and resources",
+          "c": "The method of evaluating project deliverables",
+          "d": "The process of monitoring project progress"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":12
+      },
+      {
+        "question": "What is the difference between qualitative and quantitative risk analysis?",
+        "options": {
+          "a": "Qualitative analysis is subjective, while quantitative analysis uses numerical data to assess risks",
+          "b": "Qualitative analysis is used only for scope risks, while quantitative analysis is for cost risks",
+          "c": "Qualitative analysis involves team input, while quantitative analysis involves software tools",
+          "d": "Qualitative analysis focuses on task prioritization, while quantitative analysis focuses on time management"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":13
+      },
+      {
+        "question": "What is stakeholder management?",
+        "options": {
+          "a": "The process of identifying, analyzing, and managing stakeholders' expectations and interests",
+          "b": "The process of creating project reports for stakeholders",
+          "c": "The process of managing project budgets and timelines",
+          "d": "The process of defining the scope of the project"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":14
+      },
+      {
+        "question": "What is resource leveling in project management?",
+        "options": {
+          "a": "A technique for adjusting the project schedule to address resource constraints",
+          "b": "The process of allocating resources equally across the entire project",
+          "c": "The process of prioritizing tasks based on resource availability",
+          "d": "A technique for optimizing the project budget"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":15
+      },
+      {
+        "question": "What are the key phases of the project lifecycle?",
+        "options": {
+          "a": "Initiation, planning, execution, monitoring & controlling, and closure",
+          "b": "Planning, designing, coding, and testing",
+          "c": "Planning, staffing, budgeting, and delivery",
+          "d": "Analysis, design, implementation, and verification"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":16
+      },
+      {
+        "question": "What is the difference between a milestone and a deliverable?",
+        "options": {
+          "a": "A milestone is a significant event in the project, while a deliverable is a tangible product or result",
+          "b": "A milestone is an output, while a deliverable is a project risk",
+          "c": "A milestone is a completed task, while a deliverable is a final report",
+          "d": "A milestone is a financial metric, while a deliverable is a product"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":17
+      },
+      {
+        "question": "What is earned value management (EVM)?",
+        "options": {
+          "a": "A method for measuring project performance by comparing planned progress with actual progress",
+          "b": "A financial management technique for calculating the project budget",
+          "c": "A scheduling method for tracking resource allocation",
+          "d": "A process for estimating the time and cost of project tasks"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":18
+      },
+      {
+        "question": "What are the different types of project procurement contracts?",
+        "options": {
+          "a": "Fixed-price, cost-reimbursable, and time-and-materials contracts",
+          "b": "Hourly, daily, and weekly contracts",
+          "c": "Direct, indirect, and hybrid contracts",
+          "d": "Single-source, multiple-source, and competitive contracts"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":19
+      },
+      {
+        "question": "What is the purpose of project closure?",
+        "options": {
+          "a": "To formally complete the project, finalize documentation, and release resources",
+          "b": "To evaluate project risks and implement new changes",
+          "c": "To negotiate project contracts",
+          "d": "To analyze the team's performance"
+        },
+        "answer": "a",
+        "difficulty_level": "medium",
+        "index":20
+      },
+      {
+        "question": "What is the purpose of the RACI matrix in project management?",
+        "options": {
+          "a": "It defines roles and responsibilities for project tasks",
+          "b": "It schedules project tasks",
+          "c": "It assigns tasks to resources based on availability",
+          "d": "It tracks project budgets and expenses"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":21
+      },
+      {
+        "question": "What is Monte Carlo simulation and how is it used in project risk analysis?",
+        "options": {
+          "a": "A statistical technique that uses random sampling to estimate the probability of different outcomes",
+          "b": "A tool for defining project milestones",
+          "c": "A risk analysis technique that focuses on stakeholder input",
+          "d": "A method for calculating project cost variance"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":22
+      },
+      {
+        "question": "What is change control and why is it important in project management?",
+        "options": {
+          "a": "It is a process for managing and controlling changes to project scope, schedule, or costs",
+          "b": "It is a technique for creating project documentation",
+          "c": "It is the process of managing risks and issues during the project lifecycle",
+          "d": "It is a method of scheduling resources for project tasks"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":23
+      },
+      {
+        "question": "What are the Agile and Waterfall methodologies, and when should each be used?",
+        "options": {
+          "a": "Agile is iterative and flexible, used for dynamic projects; Waterfall is linear and sequential, used for well-defined projects",
+          "b": "Agile is used for large-scale projects, and Waterfall is for small projects",
+          "c": "Agile is used for risk management, while Waterfall is for scheduling",
+          "d": "Agile is for fixed projects, and Waterfall is for flexible ones"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":24
+      },
+      {
+        "question": "What is a project charter, and what does it typically include?",
+        "options": {
+          "a": "A document that officially starts the project, outlining objectives, scope, and stakeholders",
+          "b": "A detailed risk management plan",
+          "c": "A tool for tracking project progress",
+          "d": "A report summarizing project costs and timelines"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":25
+      },
+      {
+        "question": "What is the concept of 'project portfolio management'?",
+        "options": {
+          "a": "The process of managing a collection of projects to achieve strategic goals",
+          "b": "The process of creating a project timeline",
+          "c": "The method of managing individual project teams",
+          "d": "The process of monitoring project deliverables"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":26
+      },
+      {
+        "question": "What are the key differences between Lean and Agile project management approaches?",
+        "options": {
+          "a": "Lean focuses on eliminating waste, while Agile emphasizes flexibility and customer feedback",
+          "b": "Lean focuses on team collaboration, while Agile focuses on resource management",
+          "c": "Lean is used for large projects, while Agile is for smaller ones",
+          "d": "Lean emphasizes strict planning, while Agile is focused on resource availability"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":27
+      },
+      {
+        "question": "What is the purpose of a 'lessons learned' session in project management?",
+        "options": {
+          "a": "To document what went well and what could be improved for future projects",
+          "b": "To track project progress and milestones",
+          "c": "To provide team training on project tools and techniques",
+          "d": "To review project costs and financial performance"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":28
+      },
+      {
+        "question": "What is the main focus of the PMBOK (Project Management Body of Knowledge)?",
+        "options": {
+          "a": "To provide a set of guidelines and best practices for project management processes",
+          "b": "To create detailed technical specifications for project deliverables",
+          "c": "To establish methods for risk analysis and mitigation",
+          "d": "To define a project’s lifecycle and task allocation"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":29
+      },
+      {
+        "question": "What is the purpose of resource leveling in project scheduling?",
+        "options": {
+          "a": "To adjust the project schedule by resolving resource over-allocation and conflicts",
+          "b": "To predict the future resource needs of the project",
+          "c": "To assign tasks based on team members' expertise and skills",
+          "d": "To identify resource bottlenecks in the project"
+        },
+        "answer": "a",
+        "difficulty_level": "hard",
+        "index":30
+      }
+    ]
+  }
+  
