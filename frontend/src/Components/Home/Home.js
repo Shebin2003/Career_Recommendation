@@ -15,7 +15,7 @@ const Home = () => {
               });
             }catch(error){
               window.alert("Log in to save your recommendations")
-              const sessionUser = {"id": "1","name": "John Doe"}
+              const sessionUser = {"id": "0","name": "John Doe"}
               const response = await axios.post("http://localhost:3001/session/start", sessionUser, {
                 withCredentials: true, //Ensures session cookies are stored
               });

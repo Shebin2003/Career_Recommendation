@@ -4,7 +4,7 @@ import axios from "axios";
 import { useNavigate } from 'react-router-dom';
 
 const Questions = () => {
-  const [index, setIndex] = useState(45);
+  const [index, setIndex] = useState(43);
   const [data, setData] = useState([]); // Initialize as an array
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [score, setScore] = useState({

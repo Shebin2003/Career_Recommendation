@@ -5,6 +5,7 @@ import OutputPage from './Pages/OutputPage';
 import OutputDetailsPage from './Pages/OutputDetailsPage';
 import LoginPage from './Pages/LoginPage';
 import RegisterPage from './Pages/RegisterPage';
+import Accountpage from './Pages/Accountpage';
 import { BrowserRouter,Route,Routes } from 'react-router-dom';
 
 
@@ -20,6 +21,7 @@ function App() {
           <Route path='/outputdetails' Component={OutputDetailsPage}/>
           <Route path='/login' Component={LoginPage}/>
           <Route path='/register' Component={RegisterPage}/>
+          <Route path='/myaccount' Component={Accountpage}/>
       </Routes>
     </BrowserRouter>
     </>

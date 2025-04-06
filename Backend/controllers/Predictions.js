@@ -25,7 +25,7 @@ const retrievePrediction = async (req, res) => {
         const user_id = req.query.user_id; // Get job title from query parameter
 
         // Retrieving from predictions table
-        const query = `SELECT * FROM predictions WHERE user_id = ?`;
+        const query = `SELECT prediction_1 , prediction_2 , prediction_3 FROM predictions WHERE user_id = ?`;
         const [result] = await db.promise().query(query, [user_id]);
         res.json(result)
 

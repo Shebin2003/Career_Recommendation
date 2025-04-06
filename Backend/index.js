@@ -6,7 +6,7 @@ const session = require("express-session");
 const app = express();
 const port = config.PORT;
 
-// ✅ Middleware order matters!
+
 app.use(express.json()); // Parses JSON payloads
 app.use(express.urlencoded({ extended: true })); // Parses URL-encoded payloads
 
@@ -15,7 +15,7 @@ app.use(cors({
     credentials: true // Allow sending cookies
 }));
 
-// ✅ Session Configuration
+
 app.use(
   session({
       secret: process.env.SESSION_SECRET || "CareerGoSession",

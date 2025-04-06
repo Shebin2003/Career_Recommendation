@@ -13,12 +13,12 @@ const Header = () => {
           const sessionCheck = await axios.get("http://localhost:3001/session/details", {
             withCredentials: true, // Ensures cookies are sent & received
           });
-          console.log(sessionCheck.data.user.name)
-          setOptions(['logout']);
+          console.log("hello",sessionCheck.data.user.name)
+          setOptions(['logout','myaccount']);
           
 
         } catch (error) {
-          setOptions(['Account','login', 'register']);
+          setOptions(['login', 'register']);
           
         }
       }
@@ -31,38 +31,34 @@ const Header = () => {
                 withCredentials: true, //Ensures session cookies are stored
               });
               console.log("session response : ",response.data)
-              setOptions(['Account','login', 'register']);
+              setOptions(['login', 'register']);
         }
         logout()
         navigate("/");
     }
-    const handleOptionChange = (event) => {
+    const handleOptionChange = async (event) => {
       const selectedOption = event.target.value;
-      if(selectedOption=="login"){
-        navigate("/login")
-        console.log("hi")
-      }
-      else if(selectedOption=="register"){
-        navigate("/register")
+    
+      if (selectedOption === "login") {
+        navigate("/login");
+      } else if (selectedOption === "register") {
+        navigate("/register");
         window.location.reload(false);
-      }
-      else{
-        async function logout() {
-          try {
-            const response = await axios.post("http://localhost:3001/session/end", {
-              withCredentials: true, // Ensures session cookies are stored
-            });
-            console.log("session response : ", response.data);
-            setOptions(['Account','login', 'register']);
-          } catch (error) {
-            console.error("Logout error:", error);
-          }
+      } else if (selectedOption === "logout") {
+        try {
+          await axios.post("http://localhost:3001/session/end", {}, {
+            withCredentials: true,
+          });
+          setOptions([ "login", "register"]);
+          navigate("/");
+          window.location.reload(); // Refresh the page to re-trigger session check
+        } catch (error) {
+          console.error("Logout error:", error);
         }
-        logout()
-        navigate('/')
       }
-      console.log(selectedOption); 
-  
+      else if(selectedOption === "myaccount"){
+        navigate('/myaccount')
+      }
     };
 
   return (

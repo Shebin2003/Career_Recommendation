@@ -7,7 +7,7 @@ exports.checkSession = (req, res, next) => {
 
 exports.setUserSession = (req, res) => {
     console.log(req.body)
-    const { id, name } = req.body;  // ✅ Destructure directly
+    const { id, name } = req.body;  //   Destructure directly
     if (!id || !name) {
         return res.status(400).json({ error: "Missing user ID or name" });
     }
@@ -36,6 +36,7 @@ exports.destroySession = (req, res) => {
         if (err) {
             return res.status(500).json({ error: "Error destroying session" });
         }
+        res.clearCookie('connect.sid'); // Your session cookie name
         res.json({ message: "Logged out successfully" });
     });
 };
