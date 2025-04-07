@@ -15,6 +15,10 @@ Express js
 
 KNN
 
+## Model Deployement
+
+Flask
+
 ## Database
 
 Mysql
