@@ -9,8 +9,6 @@ import numpy as np
 def train_model():
     file_path = 'Dataset_Final.csv'
     dataset = pd.read_csv(file_path)
-
-    # Step 1: Data Preprocessing
     dataset = dataset.dropna()
 
     # Encode categorical columns
